@@ -1,0 +1,608 @@
+root@serv-3329:/netscratch/franzreb# cd NeMo/
+root@serv-3329:/netscratch/franzreb/NeMo# git checkout r1.17
+Already on 'r1.17'
+Your branch is up to date with 'origin/r1.17'.
+root@serv-3329:/netscratch/franzreb/NeMo# bash ./reinstall.sh 
+Uninstalling stuff
+WARNING: Skipping nemo-toolkit as it is not installed.
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+WARNING: Skipping sacrebleu as it is not installed.
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+WARNING: Skipping nemo-asr as it is not installed.
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+WARNING: Skipping nemo-nlp as it is not installed.
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+WARNING: Skipping nemo-tts as it is not installed.
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+Looking in indexes: https://pypi.org/simple, https://pypi.ngc.nvidia.com
+Requirement already satisfied: setuptools in /usr/local/lib/python3.8/dist-packages (65.5.1)
+Collecting setuptools
+  Downloading setuptools-67.6.1-py3-none-any.whl (1.1 MB)
+     |████████████████████████████████| 1.1 MB 162 kB/s 
+Installing collected packages: setuptools
+  Attempting uninstall: setuptools
+    Found existing installation: setuptools 65.5.1
+    Uninstalling setuptools-65.5.1:
+      Successfully uninstalled setuptools-65.5.1
+Successfully installed setuptools-67.6.1
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+WARNING: You are using pip version 21.2.4; however, version 23.0.1 is available.
+You should consider upgrading via the '/usr/bin/python -m pip install --upgrade pip' command.
+Installing NeMo in NVIDIA PyTorch container: 23.03 so will not install numba
+Installing nemo
+Looking in indexes: https://pypi.org/simple, https://pypi.ngc.nvidia.com
+Obtaining file:///netscratch/franzreb/NeMo
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+    Preparing wheel metadata ... done
+Requirement already satisfied: scikit-learn in /usr/local/lib/python3.8/dist-packages (from nemo-toolkit==1.17.0rc0) (1.2.0)
+Requirement already satisfied: tqdm>=4.41.0 in /usr/local/lib/python3.8/dist-packages (from nemo-toolkit==1.17.0rc0) (4.65.0)
+Collecting setuptools==65.5.1
+  Downloading setuptools-65.5.1-py3-none-any.whl (1.2 MB)
+     |████████████████████████████████| 1.2 MB 107 kB/s 
+Requirement already satisfied: tensorboard in /usr/local/lib/python3.8/dist-packages (from nemo-toolkit==1.17.0rc0) (2.9.0)
+Requirement already satisfied: numpy>=1.22 in /usr/local/lib/python3.8/dist-packages (from nemo-toolkit==1.17.0rc0) (1.22.2)
+Collecting wget
+  Downloading wget-3.2.zip (10 kB)
+Requirement already satisfied: torch in /usr/local/lib/python3.8/dist-packages (from nemo-toolkit==1.17.0rc0) (2.0.0a0+1767026)
+Requirement already satisfied: numba in /usr/local/lib/python3.8/dist-packages (from nemo-toolkit==1.17.0rc0) (0.56.4+1.g9a03de713)
+Requirement already satisfied: onnx>=1.7.0 in /usr/local/lib/python3.8/dist-packages (from nemo-toolkit==1.17.0rc0) (1.13.0)
+Collecting ruamel.yaml
+  Downloading ruamel.yaml-0.17.21-py3-none-any.whl (109 kB)
+     |████████████████████████████████| 109 kB 181 kB/s 
+Collecting huggingface-hub
+  Downloading huggingface_hub-0.13.3-py3-none-any.whl (199 kB)
+     |████████████████████████████████| 199 kB 342 kB/s 
+Requirement already satisfied: python-dateutil in /usr/local/lib/python3.8/dist-packages (from nemo-toolkit==1.17.0rc0) (2.8.2)
+Collecting wrapt
+  Downloading wrapt-1.15.0-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl (81 kB)
+     |████████████████████████████████| 81 kB 303 kB/s 
+Collecting text-unidecode
+  Downloading text_unidecode-1.3-py2.py3-none-any.whl (78 kB)
+     |████████████████████████████████| 78 kB 425 kB/s 
+Requirement already satisfied: matplotlib>=3.3.2 in /usr/local/lib/python3.8/dist-packages (from nemo-toolkit==1.17.0rc0) (3.7.0)
+Collecting black==19.10b0
+  Downloading black-19.10b0-py36-none-any.whl (97 kB)
+     |████████████████████████████████| 97 kB 191 kB/s 
+Collecting wandb
+  Downloading wandb-0.14.0-py3-none-any.whl (2.0 MB)
+     |████████████████████████████████| 2.0 MB 136 kB/s 
+Collecting sentence-transformers
+  Downloading sentence-transformers-2.2.2.tar.gz (85 kB)
+     |████████████████████████████████| 85 kB 254 kB/s 
+Requirement already satisfied: pandas in /usr/local/lib/python3.8/dist-packages (from nemo-toolkit==1.17.0rc0) (1.5.2)
+Collecting sacremoses>=0.0.43
+  Downloading sacremoses-0.0.53.tar.gz (880 kB)
+     |████████████████████████████████| 880 kB 288 kB/s 
+Requirement already satisfied: scipy>=0.14 in /usr/local/lib/python3.8/dist-packages (from nemo-toolkit==1.17.0rc0) (1.6.3)
+Collecting pyannote.core
+  Downloading pyannote.core-5.0.0-py3-none-any.whl (58 kB)
+     |████████████████████████████████| 58 kB 626 kB/s 
+Collecting ijson
+  Downloading ijson-3.2.0.post0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (114 kB)
+     |████████████████████████████████| 114 kB 133 kB/s 
+Collecting nltk
+  Downloading nltk-3.8.1-py3-none-any.whl (1.5 MB)
+     |████████████████████████████████| 1.5 MB 163 kB/s 
+Collecting omegaconf<2.3,>=2.2
+  Downloading omegaconf-2.2.3-py3-none-any.whl (79 kB)
+     |████████████████████████████████| 79 kB 290 kB/s 
+Collecting einops
+  Downloading einops-0.6.0-py3-none-any.whl (41 kB)
+     |████████████████████████████████| 41 kB 399 kB/s 
+Collecting jiwer>=2.0.0
+  Downloading jiwer-3.0.1-py3-none-any.whl (21 kB)
+Collecting texterrors
+  Downloading texterrors-0.4.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (1.1 MB)
+     |████████████████████████████████| 1.1 MB 196 kB/s 
+Collecting sacrebleu[ja]
+  Downloading sacrebleu-2.3.1-py3-none-any.whl (118 kB)
+     |████████████████████████████████| 118 kB 113 kB/s 
+Collecting textdistance>=4.1.5
+  Downloading textdistance-4.5.0-py3-none-any.whl (31 kB)
+Collecting opencc
+  Downloading OpenCC-1.1.6-cp38-cp38-manylinux1_x86_64.whl (778 kB)
+     |████████████████████████████████| 778 kB 121 kB/s 
+Collecting boto3
+  Downloading boto3-1.26.103-py3-none-any.whl (135 kB)
+     |████████████████████████████████| 135 kB 290 kB/s 
+Collecting progress>=1.5
+  Downloading progress-1.6.tar.gz (7.8 kB)
+Collecting kaldiio
+  Downloading kaldiio-2.18.0-py3-none-any.whl (28 kB)
+Collecting rouge-score
+  Downloading rouge_score-0.1.2.tar.gz (17 kB)
+Collecting parameterized
+  Downloading parameterized-0.9.0-py2.py3-none-any.whl (20 kB)
+Collecting pytorch-lightning<=1.9.4,>=1.9.0
+  Downloading pytorch_lightning-1.9.4-py3-none-any.whl (827 kB)
+     |████████████████████████████████| 827 kB 160 kB/s 
+Collecting ftfy
+  Downloading ftfy-6.1.1-py3-none-any.whl (53 kB)
+     |████████████████████████████████| 53 kB 639 kB/s 
+Collecting hydra-core<1.3,>=1.2.0
+  Downloading hydra_core-1.2.0-py3-none-any.whl (151 kB)
+     |████████████████████████████████| 151 kB 294 kB/s 
+Collecting h5py
+  Downloading h5py-3.8.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (4.7 MB)
+     |████████████████████████████████| 4.7 MB 459 kB/s 
+Collecting sentencepiece<1.0.0
+  Downloading sentencepiece-0.1.97-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (1.3 MB)
+     |████████████████████████████████| 1.3 MB 104 kB/s 
+Collecting pyannote.metrics
+  Downloading pyannote.metrics-3.2.1-py3-none-any.whl (51 kB)
+     |████████████████████████████████| 51 kB 339 kB/s 
+Requirement already satisfied: pytest in /usr/local/lib/python3.8/dist-packages (from nemo-toolkit==1.17.0rc0) (7.2.2)
+Collecting pyyaml<6
+  Downloading PyYAML-5.4.1-cp38-cp38-manylinux1_x86_64.whl (662 kB)
+     |████████████████████████████████| 662 kB 603 kB/s 
+Collecting g2p-en
+  Downloading g2p_en-2.1.0-py3-none-any.whl (3.1 MB)
+     |████████████████████████████████| 3.1 MB 171 kB/s 
+Requirement already satisfied: librosa>=0.9.0 in /usr/local/lib/python3.8/dist-packages (from nemo-toolkit==1.17.0rc0) (0.9.2)
+Collecting nemo-text-processing
+  Downloading nemo_text_processing-0.1.7rc0-py3-none-any.whl (2.2 MB)
+     |████████████████████████████████| 2.2 MB 382 kB/s 
+Requirement already satisfied: packaging in /usr/local/lib/python3.8/dist-packages (from nemo-toolkit==1.17.0rc0) (23.0)
+Collecting rapidfuzz
+  Downloading rapidfuzz-2.13.7-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (2.2 MB)
+     |████████████████████████████████| 2.2 MB 161 kB/s 
+Collecting kaldi-python-io
+  Downloading kaldi-python-io-1.2.2.tar.gz (8.8 kB)
+Collecting faiss-cpu
+  Downloading faiss_cpu-1.7.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (17.0 MB)
+     |████████████████████████████████| 17.0 MB 159 kB/s 
+Collecting ipywidgets
+  Downloading ipywidgets-8.0.6-py3-none-any.whl (138 kB)
+     |████████████████████████████████| 138 kB 275 kB/s 
+Collecting sphinxcontrib-bibtex
+  Downloading sphinxcontrib_bibtex-2.5.0-py3-none-any.whl (39 kB)
+Collecting tabulate>=0.8.7
+  Downloading tabulate-0.9.0-py3-none-any.whl (35 kB)
+Collecting gradio
+  Downloading gradio-3.24.0-py3-none-any.whl (15.7 MB)
+     |████████████████████████████████| 15.7 MB 213 kB/s 
+Collecting isort<6.0.0,>5.1.0
+  Downloading isort-5.12.0-py3-none-any.whl (91 kB)
+     |████████████████████████████████| 91 kB 236 kB/s 
+Collecting youtokentome>=1.0.5
+  Downloading youtokentome-1.0.6-cp38-cp38-manylinux2010_x86_64.whl (1.7 MB)
+     |████████████████████████████████| 1.7 MB 732 kB/s 
+Collecting attrdict
+  Downloading attrdict-2.0.1-py2.py3-none-any.whl (9.9 kB)
+Collecting marshmallow
+  Downloading marshmallow-3.19.0-py3-none-any.whl (49 kB)
+     |████████████████████████████████| 49 kB 428 kB/s 
+Collecting sox
+  Downloading sox-1.4.1-py2.py3-none-any.whl (39 kB)
+Requirement already satisfied: soundfile in /usr/local/lib/python3.8/dist-packages (from nemo-toolkit==1.17.0rc0) (0.12.1)
+Collecting sphinx
+  Downloading sphinx-6.1.3-py3-none-any.whl (3.0 MB)
+     |████████████████████████████████| 3.0 MB 218 kB/s 
+Collecting gdown
+  Downloading gdown-4.7.1-py3-none-any.whl (15 kB)
+Collecting kornia
+  Downloading kornia-0.6.11-py2.py3-none-any.whl (628 kB)
+     |████████████████████████████████| 628 kB 205 kB/s 
+Collecting torchmetrics>=0.11.0
+  Downloading torchmetrics-0.11.4-py3-none-any.whl (519 kB)
+     |████████████████████████████████| 519 kB 180 kB/s 
+Collecting jieba
+  Downloading jieba-0.42.1.tar.gz (19.2 MB)
+     |████████████████████████████████| 19.2 MB 2.2 MB/s 
+Collecting fasttext
+  Downloading fasttext-0.9.2.tar.gz (68 kB)
+     |████████████████████████████████| 68 kB 824 kB/s 
+Collecting transformers>=4.0.1
+  Downloading transformers-4.27.4-py3-none-any.whl (6.8 MB)
+     |████████████████████████████████| 6.8 MB 160 kB/s 
+Collecting editdistance
+  Downloading editdistance-0.6.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (283 kB)
+     |████████████████████████████████| 283 kB 67 kB/s 
+Collecting braceexpand
+  Downloading braceexpand-0.1.7-py2.py3-none-any.whl (5.9 kB)
+Collecting click==8.0.2
+  Downloading click-8.0.2-py3-none-any.whl (97 kB)
+     |████████████████████████████████| 97 kB 328 kB/s 
+Collecting flask-restful
+  Downloading Flask_RESTful-0.3.9-py2.py3-none-any.whl (25 kB)
+Collecting pytest-runner
+  Downloading pytest_runner-6.0.0-py3-none-any.whl (7.2 kB)
+Collecting pypinyin
+  Downloading pypinyin-0.48.0-py2.py3-none-any.whl (1.4 MB)
+     |████████████████████████████████| 1.4 MB 517 kB/s 
+Collecting webdataset<=0.1.62,>=0.1.48
+  Downloading webdataset-0.1.62-py3-none-any.whl (32 kB)
+Collecting inflect
+  Downloading inflect-6.0.2-py3-none-any.whl (34 kB)
+Collecting pydub
+  Downloading pydub-0.25.1-py2.py3-none-any.whl (32 kB)
+Collecting pangu
+  Downloading pangu-4.0.6.1-py3-none-any.whl (6.4 kB)
+Collecting pypinyin-dict
+  Downloading pypinyin_dict-0.5.0-py2.py3-none-any.whl (9.5 MB)
+     |████████████████████████████████| 9.5 MB 1.4 MB/s 
+Requirement already satisfied: attrs>=18.1.0 in /usr/local/lib/python3.8/dist-packages (from black==19.10b0->nemo-toolkit==1.17.0rc0) (22.2.0)
+Collecting appdirs
+  Downloading appdirs-1.4.4-py2.py3-none-any.whl (9.6 kB)
+Collecting pathspec<1,>=0.6
+  Downloading pathspec-0.11.1-py3-none-any.whl (29 kB)
+Collecting typed-ast>=1.4.0
+  Downloading typed_ast-1.5.4-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl (897 kB)
+     |████████████████████████████████| 897 kB 1.8 MB/s 
+Requirement already satisfied: regex in /usr/local/lib/python3.8/dist-packages (from black==19.10b0->nemo-toolkit==1.17.0rc0) (2022.10.31)
+Requirement already satisfied: toml>=0.9.4 in /usr/local/lib/python3.8/dist-packages (from black==19.10b0->nemo-toolkit==1.17.0rc0) (0.10.2)
+Collecting antlr4-python3-runtime==4.9.*
+  Downloading antlr4-python3-runtime-4.9.3.tar.gz (117 kB)
+     |████████████████████████████████| 117 kB 1.5 MB/s 
+Requirement already satisfied: importlib-resources in /usr/local/lib/python3.8/dist-packages (from hydra-core<1.3,>=1.2.0->nemo-toolkit==1.17.0rc0) (5.12.0)
+Collecting jiwer>=2.0.0
+  Downloading jiwer-3.0.0-py3-none-any.whl (21 kB)
+  Downloading jiwer-2.6.0-py3-none-any.whl (20 kB)
+  Downloading jiwer-2.5.2-py3-none-any.whl (15 kB)
+Requirement already satisfied: resampy>=0.2.2 in /usr/local/lib/python3.8/dist-packages (from librosa>=0.9.0->nemo-toolkit==1.17.0rc0) (0.4.2)
+Requirement already satisfied: pooch>=1.0 in /usr/local/lib/python3.8/dist-packages (from librosa>=0.9.0->nemo-toolkit==1.17.0rc0) (1.7.0)
+Requirement already satisfied: audioread>=2.1.9 in /usr/local/lib/python3.8/dist-packages (from librosa>=0.9.0->nemo-toolkit==1.17.0rc0) (3.0.0)
+Requirement already satisfied: decorator>=4.0.10 in /usr/local/lib/python3.8/dist-packages (from librosa>=0.9.0->nemo-toolkit==1.17.0rc0) (5.1.1)
+Requirement already satisfied: joblib>=0.14 in /usr/local/lib/python3.8/dist-packages (from librosa>=0.9.0->nemo-toolkit==1.17.0rc0) (1.2.0)
+Requirement already satisfied: cycler>=0.10 in /usr/local/lib/python3.8/dist-packages (from matplotlib>=3.3.2->nemo-toolkit==1.17.0rc0) (0.11.0)
+Requirement already satisfied: pyparsing>=2.3.1 in /usr/local/lib/python3.8/dist-packages (from matplotlib>=3.3.2->nemo-toolkit==1.17.0rc0) (3.0.9)
+Requirement already satisfied: contourpy>=1.0.1 in /usr/local/lib/python3.8/dist-packages (from matplotlib>=3.3.2->nemo-toolkit==1.17.0rc0) (1.0.7)
+Requirement already satisfied: kiwisolver>=1.0.1 in /usr/local/lib/python3.8/dist-packages (from matplotlib>=3.3.2->nemo-toolkit==1.17.0rc0) (1.4.4)
+Requirement already satisfied: fonttools>=4.22.0 in /usr/local/lib/python3.8/dist-packages (from matplotlib>=3.3.2->nemo-toolkit==1.17.0rc0) (4.38.0)
+Requirement already satisfied: pillow>=6.2.0 in /usr/local/lib/python3.8/dist-packages (from matplotlib>=3.3.2->nemo-toolkit==1.17.0rc0) (9.2.0)
+Requirement already satisfied: zipp>=3.1.0 in /usr/local/lib/python3.8/dist-packages (from importlib-resources->hydra-core<1.3,>=1.2.0->nemo-toolkit==1.17.0rc0) (3.14.0)
+Requirement already satisfied: importlib-metadata in /usr/local/lib/python3.8/dist-packages (from numba->nemo-toolkit==1.17.0rc0) (6.0.0)
+Requirement already satisfied: llvmlite<0.40,>=0.39.0dev0 in /usr/local/lib/python3.8/dist-packages (from numba->nemo-toolkit==1.17.0rc0) (0.39.1)
+Requirement already satisfied: protobuf<4,>=3.20.2 in /usr/local/lib/python3.8/dist-packages (from onnx>=1.7.0->nemo-toolkit==1.17.0rc0) (3.20.3)
+Requirement already satisfied: typing-extensions>=3.6.2.1 in /usr/local/lib/python3.8/dist-packages (from onnx>=1.7.0->nemo-toolkit==1.17.0rc0) (4.5.0)
+Requirement already satisfied: requests>=2.19.0 in /usr/local/lib/python3.8/dist-packages (from pooch>=1.0->librosa>=0.9.0->nemo-toolkit==1.17.0rc0) (2.28.2)
+Requirement already satisfied: platformdirs>=2.5.0 in /usr/local/lib/python3.8/dist-packages (from pooch>=1.0->librosa>=0.9.0->nemo-toolkit==1.17.0rc0) (3.1.1)
+Requirement already satisfied: six>=1.5 in /usr/local/lib/python3.8/dist-packages (from python-dateutil->nemo-toolkit==1.17.0rc0) (1.16.0)
+Collecting lightning-utilities>=0.6.0.post0
+  Downloading lightning_utilities-0.8.0-py3-none-any.whl (20 kB)
+Requirement already satisfied: fsspec[http]>2021.06.0 in /usr/local/lib/python3.8/dist-packages (from pytorch-lightning<=1.9.4,>=1.9.0->nemo-toolkit==1.17.0rc0) (2023.1.0)
+Collecting aiohttp!=4.0.0a0,!=4.0.0a1
+  Downloading aiohttp-3.8.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (1.0 MB)
+     |████████████████████████████████| 1.0 MB 75 kB/s 
+Collecting async-timeout<5.0,>=4.0.0a3
+  Downloading async_timeout-4.0.2-py3-none-any.whl (5.8 kB)
+Requirement already satisfied: charset-normalizer<4.0,>=2.0 in /usr/local/lib/python3.8/dist-packages (from aiohttp!=4.0.0a0,!=4.0.0a1->fsspec[http]>2021.06.0->pytorch-lightning<=1.9.4,>=1.9.0->nemo-toolkit==1.17.0rc0) (3.1.0)
+Collecting yarl<2.0,>=1.0
+  Downloading yarl-1.8.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (262 kB)
+     |████████████████████████████████| 262 kB 359 kB/s 
+Collecting frozenlist>=1.1.1
+  Downloading frozenlist-1.3.3-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl (161 kB)
+     |████████████████████████████████| 161 kB 172 kB/s 
+Collecting multidict<7.0,>=4.5
+  Downloading multidict-6.0.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (121 kB)
+     |████████████████████████████████| 121 kB 273 kB/s 
+Collecting aiosignal>=1.1.2
+  Downloading aiosignal-1.3.1-py3-none-any.whl (7.6 kB)
+Requirement already satisfied: idna<4,>=2.5 in /usr/local/lib/python3.8/dist-packages (from requests>=2.19.0->pooch>=1.0->librosa>=0.9.0->nemo-toolkit==1.17.0rc0) (3.4)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in /usr/local/lib/python3.8/dist-packages (from requests>=2.19.0->pooch>=1.0->librosa>=0.9.0->nemo-toolkit==1.17.0rc0) (1.26.14)
+Requirement already satisfied: certifi>=2017.4.17 in /usr/local/lib/python3.8/dist-packages (from requests>=2.19.0->pooch>=1.0->librosa>=0.9.0->nemo-toolkit==1.17.0rc0) (2022.12.7)
+Requirement already satisfied: threadpoolctl>=2.0.0 in /usr/local/lib/python3.8/dist-packages (from scikit-learn->nemo-toolkit==1.17.0rc0) (3.1.0)
+Requirement already satisfied: cffi>=1.0 in /usr/local/lib/python3.8/dist-packages (from soundfile->nemo-toolkit==1.17.0rc0) (1.15.1)
+Requirement already satisfied: pycparser in /usr/local/lib/python3.8/dist-packages (from cffi>=1.0->soundfile->nemo-toolkit==1.17.0rc0) (2.21)
+Requirement already satisfied: filelock in /usr/local/lib/python3.8/dist-packages (from torch->nemo-toolkit==1.17.0rc0) (3.10.0)
+Requirement already satisfied: sympy in /usr/local/lib/python3.8/dist-packages (from torch->nemo-toolkit==1.17.0rc0) (1.11.1)
+Requirement already satisfied: networkx in /usr/local/lib/python3.8/dist-packages (from torch->nemo-toolkit==1.17.0rc0) (2.6.3)
+Collecting tokenizers!=0.11.3,<0.14,>=0.11.1
+  Downloading tokenizers-0.13.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (7.6 MB)
+     |████████████████████████████████| 7.6 MB 192 kB/s 
+Collecting botocore<1.30.0,>=1.29.103
+  Downloading botocore-1.29.103-py3-none-any.whl (10.6 MB)
+     |████████████████████████████████| 10.6 MB 124 kB/s 
+Collecting jmespath<2.0.0,>=0.7.1
+  Downloading jmespath-1.0.1-py3-none-any.whl (20 kB)
+Collecting s3transfer<0.7.0,>=0.6.0
+  Downloading s3transfer-0.6.0-py3-none-any.whl (79 kB)
+     |████████████████████████████████| 79 kB 256 kB/s 
+Requirement already satisfied: pybind11>=2.2 in /usr/local/lib/python3.8/dist-packages (from fasttext->nemo-toolkit==1.17.0rc0) (2.10.3)
+Collecting Flask>=0.8
+  Downloading Flask-2.2.3-py3-none-any.whl (101 kB)
+     |████████████████████████████████| 101 kB 180 kB/s 
+Requirement already satisfied: pytz in /usr/local/lib/python3.8/dist-packages (from flask-restful->nemo-toolkit==1.17.0rc0) (2022.7.1)
+Collecting aniso8601>=0.82
+  Downloading aniso8601-9.0.1-py2.py3-none-any.whl (52 kB)
+     |████████████████████████████████| 52 kB 349 kB/s 
+Collecting itsdangerous>=2.0
+  Downloading itsdangerous-2.1.2-py3-none-any.whl (15 kB)
+Requirement already satisfied: Jinja2>=3.0 in /usr/local/lib/python3.8/dist-packages (from Flask>=0.8->flask-restful->nemo-toolkit==1.17.0rc0) (3.1.2)
+Requirement already satisfied: Werkzeug>=2.2.2 in /usr/local/lib/python3.8/dist-packages (from Flask>=0.8->flask-restful->nemo-toolkit==1.17.0rc0) (2.2.3)
+Requirement already satisfied: MarkupSafe>=2.0 in /usr/local/lib/python3.8/dist-packages (from Jinja2>=3.0->Flask>=0.8->flask-restful->nemo-toolkit==1.17.0rc0) (2.1.2)
+Requirement already satisfied: wcwidth>=0.2.5 in /usr/local/lib/python3.8/dist-packages (from ftfy->nemo-toolkit==1.17.0rc0) (0.2.6)
+Collecting distance>=0.1.3
+  Downloading Distance-0.1.3.tar.gz (180 kB)
+     |████████████████████████████████| 180 kB 294 kB/s 
+Requirement already satisfied: pydantic>=1.9.1 in /usr/local/lib/python3.8/dist-packages (from inflect->nemo-toolkit==1.17.0rc0) (1.10.6)
+Requirement already satisfied: beautifulsoup4 in /usr/local/lib/python3.8/dist-packages (from gdown->nemo-toolkit==1.17.0rc0) (4.11.2)
+Requirement already satisfied: soupsieve>1.2 in /usr/local/lib/python3.8/dist-packages (from beautifulsoup4->gdown->nemo-toolkit==1.17.0rc0) (2.4)
+Collecting semantic-version
+  Downloading semantic_version-2.10.0-py2.py3-none-any.whl (15 kB)
+Collecting fastapi
+  Downloading fastapi-0.95.0-py3-none-any.whl (57 kB)
+     |████████████████████████████████| 57 kB 405 kB/s 
+Collecting altair>=4.2.0
+  Downloading altair-4.2.2-py3-none-any.whl (813 kB)
+     |████████████████████████████████| 813 kB 109 kB/s 
+Collecting ffmpy
+  Downloading ffmpy-0.3.0.tar.gz (4.8 kB)
+Collecting python-multipart
+  Downloading python_multipart-0.0.6-py3-none-any.whl (45 kB)
+     |████████████████████████████████| 45 kB 876 kB/s 
+Requirement already satisfied: markdown-it-py[linkify]>=2.0.0 in /usr/local/lib/python3.8/dist-packages (from gradio->nemo-toolkit==1.17.0rc0) (2.2.0)
+Collecting orjson
+  Downloading orjson-3.8.9-cp38-cp38-manylinux_2_28_x86_64.whl (143 kB)
+     |████████████████████████████████| 143 kB 390 kB/s 
+Collecting aiofiles
+  Downloading aiofiles-23.1.0-py3-none-any.whl (14 kB)
+Collecting mdit-py-plugins<=0.3.3
+  Downloading mdit_py_plugins-0.3.3-py3-none-any.whl (50 kB)
+     |████████████████████████████████| 50 kB 238 kB/s 
+Collecting httpx
+  Downloading httpx-0.23.3-py3-none-any.whl (71 kB)
+     |████████████████████████████████| 71 kB 259 kB/s 
+Collecting uvicorn
+  Downloading uvicorn-0.21.1-py3-none-any.whl (57 kB)
+     |████████████████████████████████| 57 kB 375 kB/s 
+Collecting websockets>=10.0
+  Downloading websockets-10.4-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl (106 kB)
+     |████████████████████████████████| 106 kB 171 kB/s 
+Collecting gradio-client>=0.0.5
+  Downloading gradio_client-0.0.5-py3-none-any.whl (12 kB)
+Collecting entrypoints
+  Downloading entrypoints-0.4-py3-none-any.whl (5.3 kB)
+Requirement already satisfied: toolz in /usr/local/lib/python3.8/dist-packages (from altair>=4.2.0->gradio->nemo-toolkit==1.17.0rc0) (0.12.0)
+Requirement already satisfied: jsonschema>=3.0 in /usr/local/lib/python3.8/dist-packages (from altair>=4.2.0->gradio->nemo-toolkit==1.17.0rc0) (4.17.3)
+Requirement already satisfied: pyrsistent!=0.17.0,!=0.17.1,!=0.17.2,>=0.14.0 in /usr/local/lib/python3.8/dist-packages (from jsonschema>=3.0->altair>=4.2.0->gradio->nemo-toolkit==1.17.0rc0) (0.19.3)
+Requirement already satisfied: pkgutil-resolve-name>=1.3.10 in /usr/local/lib/python3.8/dist-packages (from jsonschema>=3.0->altair>=4.2.0->gradio->nemo-toolkit==1.17.0rc0) (1.3.10)
+Requirement already satisfied: mdurl~=0.1 in /usr/local/lib/python3.8/dist-packages (from markdown-it-py[linkify]>=2.0.0->gradio->nemo-toolkit==1.17.0rc0) (0.1.2)
+Collecting linkify-it-py<3,>=1
+  Downloading linkify_it_py-2.0.0-py3-none-any.whl (19 kB)
+Collecting uc-micro-py
+  Downloading uc_micro_py-1.0.1-py3-none-any.whl (6.2 kB)
+Collecting starlette<0.27.0,>=0.26.1
+  Downloading starlette-0.26.1-py3-none-any.whl (66 kB)
+     |████████████████████████████████| 66 kB 70 kB/s 
+Collecting anyio<5,>=3.4.0
+  Downloading anyio-3.6.2-py3-none-any.whl (80 kB)
+     |████████████████████████████████| 80 kB 76 kB/s 
+Collecting sniffio>=1.1
+  Downloading sniffio-1.3.0-py3-none-any.whl (10 kB)
+Collecting httpcore<0.17.0,>=0.15.0
+  Downloading httpcore-0.16.3-py3-none-any.whl (69 kB)
+     |████████████████████████████████| 69 kB 183 kB/s 
+Collecting rfc3986[idna2008]<2,>=1.3
+  Downloading rfc3986-1.5.0-py2.py3-none-any.whl (31 kB)
+Collecting h11<0.15,>=0.13
+  Downloading h11-0.14.0-py3-none-any.whl (58 kB)
+     |████████████████████████████████| 58 kB 469 kB/s 
+Requirement already satisfied: ipython>=6.1.0 in /usr/local/lib/python3.8/dist-packages (from ipywidgets->nemo-toolkit==1.17.0rc0) (8.11.0)
+Collecting jupyterlab-widgets~=3.0.7
+  Downloading jupyterlab_widgets-3.0.7-py3-none-any.whl (198 kB)
+     |████████████████████████████████| 198 kB 188 kB/s 
+Requirement already satisfied: traitlets>=4.3.1 in /usr/local/lib/python3.8/dist-packages (from ipywidgets->nemo-toolkit==1.17.0rc0) (5.9.0)
+Collecting widgetsnbextension~=4.0.7
+  Downloading widgetsnbextension-4.0.7-py3-none-any.whl (2.1 MB)
+     |████████████████████████████████| 2.1 MB 210 kB/s 
+Requirement already satisfied: ipykernel>=4.5.1 in /usr/local/lib/python3.8/dist-packages (from ipywidgets->nemo-toolkit==1.17.0rc0) (6.21.3)
+Requirement already satisfied: debugpy>=1.6.5 in /usr/local/lib/python3.8/dist-packages (from ipykernel>=4.5.1->ipywidgets->nemo-toolkit==1.17.0rc0) (1.6.6)
+Requirement already satisfied: comm>=0.1.1 in /usr/local/lib/python3.8/dist-packages (from ipykernel>=4.5.1->ipywidgets->nemo-toolkit==1.17.0rc0) (0.1.2)
+Requirement already satisfied: pyzmq>=20 in /usr/local/lib/python3.8/dist-packages (from ipykernel>=4.5.1->ipywidgets->nemo-toolkit==1.17.0rc0) (25.0.1)
+Requirement already satisfied: nest-asyncio in /usr/local/lib/python3.8/dist-packages (from ipykernel>=4.5.1->ipywidgets->nemo-toolkit==1.17.0rc0) (1.5.6)
+Requirement already satisfied: jupyter-client>=6.1.12 in /usr/local/lib/python3.8/dist-packages (from ipykernel>=4.5.1->ipywidgets->nemo-toolkit==1.17.0rc0) (8.0.3)
+Requirement already satisfied: jupyter-core!=5.0.*,>=4.12 in /usr/local/lib/python3.8/dist-packages (from ipykernel>=4.5.1->ipywidgets->nemo-toolkit==1.17.0rc0) (5.2.0)
+Requirement already satisfied: psutil in /usr/local/lib/python3.8/dist-packages (from ipykernel>=4.5.1->ipywidgets->nemo-toolkit==1.17.0rc0) (5.9.4)
+Requirement already satisfied: matplotlib-inline>=0.1 in /usr/local/lib/python3.8/dist-packages (from ipykernel>=4.5.1->ipywidgets->nemo-toolkit==1.17.0rc0) (0.1.6)
+Requirement already satisfied: tornado>=6.1 in /usr/local/lib/python3.8/dist-packages (from ipykernel>=4.5.1->ipywidgets->nemo-toolkit==1.17.0rc0) (6.2)
+Requirement already satisfied: prompt-toolkit!=3.0.37,<3.1.0,>=3.0.30 in /usr/local/lib/python3.8/dist-packages (from ipython>=6.1.0->ipywidgets->nemo-toolkit==1.17.0rc0) (3.0.38)
+Requirement already satisfied: backcall in /usr/local/lib/python3.8/dist-packages (from ipython>=6.1.0->ipywidgets->nemo-toolkit==1.17.0rc0) (0.2.0)
+Requirement already satisfied: pygments>=2.4.0 in /usr/local/lib/python3.8/dist-packages (from ipython>=6.1.0->ipywidgets->nemo-toolkit==1.17.0rc0) (2.14.0)
+Requirement already satisfied: pickleshare in /usr/local/lib/python3.8/dist-packages (from ipython>=6.1.0->ipywidgets->nemo-toolkit==1.17.0rc0) (0.7.5)
+Requirement already satisfied: stack-data in /usr/local/lib/python3.8/dist-packages (from ipython>=6.1.0->ipywidgets->nemo-toolkit==1.17.0rc0) (0.6.2)
+Requirement already satisfied: jedi>=0.16 in /usr/local/lib/python3.8/dist-packages (from ipython>=6.1.0->ipywidgets->nemo-toolkit==1.17.0rc0) (0.18.2)
+Requirement already satisfied: pexpect>4.3 in /usr/local/lib/python3.8/dist-packages (from ipython>=6.1.0->ipywidgets->nemo-toolkit==1.17.0rc0) (4.8.0)
+Requirement already satisfied: parso<0.9.0,>=0.8.0 in /usr/local/lib/python3.8/dist-packages (from jedi>=0.16->ipython>=6.1.0->ipywidgets->nemo-toolkit==1.17.0rc0) (0.8.3)
+Requirement already satisfied: ptyprocess>=0.5 in /usr/local/lib/python3.8/dist-packages (from pexpect>4.3->ipython>=6.1.0->ipywidgets->nemo-toolkit==1.17.0rc0) (0.7.0)
+Collecting cdifflib
+  Downloading cdifflib-1.2.6.tar.gz (11 kB)
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Installing backend dependencies ... done
+    Preparing wheel metadata ... done
+Collecting pynini==2.1.5
+  Downloading pynini-2.1.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (161.5 MB)
+     |████████████████████████████████| 161.5 MB 2.5 MB/s 
+Requirement already satisfied: Cython>=0.29 in /usr/local/lib/python3.8/dist-packages (from pynini==2.1.5->nemo-text-processing->nemo-toolkit==1.17.0rc0) (0.29.33)
+Requirement already satisfied: sortedcontainers>=2.0.4 in /usr/local/lib/python3.8/dist-packages (from pyannote.core->nemo-toolkit==1.17.0rc0) (2.4.0)
+Collecting pyannote.database>=4.0.1
+  Downloading pyannote.database-5.0.0-py3-none-any.whl (48 kB)
+     |████████████████████████████████| 48 kB 5.2 MB/s 
+Collecting docopt>=0.6.2
+  Downloading docopt-0.6.2.tar.gz (25 kB)
+Requirement already satisfied: typer[all]>=0.2.1 in /usr/local/lib/python3.8/dist-packages (from pyannote.database>=4.0.1->pyannote.metrics->nemo-toolkit==1.17.0rc0) (0.7.0)
+Requirement already satisfied: mpmath>=0.19 in /usr/local/lib/python3.8/dist-packages (from sympy->torch->nemo-toolkit==1.17.0rc0) (1.3.0)
+Collecting colorama<0.5.0,>=0.4.3
+  Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Collecting rich<13.0.0,>=10.11.0
+  Downloading rich-12.6.0-py3-none-any.whl (237 kB)
+     |████████████████████████████████| 237 kB 1.2 MB/s 
+Collecting shellingham<2.0.0,>=1.3.0
+  Downloading shellingham-1.5.0.post1-py2.py3-none-any.whl (9.4 kB)
+Collecting commonmark<0.10.0,>=0.9.0
+  Downloading commonmark-0.9.1-py2.py3-none-any.whl (51 kB)
+     |████████████████████████████████| 51 kB 464 kB/s 
+Requirement already satisfied: iniconfig in /usr/local/lib/python3.8/dist-packages (from pytest->nemo-toolkit==1.17.0rc0) (2.0.0)
+Requirement already satisfied: tomli>=1.0.0 in /usr/local/lib/python3.8/dist-packages (from pytest->nemo-toolkit==1.17.0rc0) (2.0.1)
+Requirement already satisfied: pluggy<2.0,>=0.12 in /usr/local/lib/python3.8/dist-packages (from pytest->nemo-toolkit==1.17.0rc0) (1.0.0)
+Requirement already satisfied: exceptiongroup>=1.0.0rc8 in /usr/local/lib/python3.8/dist-packages (from pytest->nemo-toolkit==1.17.0rc0) (1.1.1)
+Collecting PySocks!=1.5.7,>=1.5.6
+  Downloading PySocks-1.7.1-py3-none-any.whl (16 kB)
+Requirement already satisfied: absl-py in /usr/local/lib/python3.8/dist-packages (from rouge-score->nemo-toolkit==1.17.0rc0) (1.4.0)
+Collecting ruamel.yaml.clib>=0.2.6
+  Downloading ruamel.yaml.clib-0.2.7-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl (555 kB)
+     |████████████████████████████████| 555 kB 1.5 MB/s 
+Collecting lxml
+  Downloading lxml-4.9.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl (7.1 MB)
+     |████████████████████████████████| 7.1 MB 77 kB/s 
+Collecting portalocker
+  Downloading portalocker-2.7.0-py2.py3-none-any.whl (15 kB)
+Collecting ipadic<2.0,>=1.0
+  Downloading ipadic-1.0.0.tar.gz (13.4 MB)
+     |████████████████████████████████| 13.4 MB 242 kB/s 
+Collecting mecab-python3==1.0.5
+  Downloading mecab_python3-1.0.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (577 kB)
+     |████████████████████████████████| 577 kB 419 kB/s 
+Requirement already satisfied: torchvision in /usr/local/lib/python3.8/dist-packages (from sentence-transformers->nemo-toolkit==1.17.0rc0) (0.15.0a0)
+Collecting sphinxcontrib-qthelp
+  Downloading sphinxcontrib_qthelp-1.0.3-py2.py3-none-any.whl (90 kB)
+     |████████████████████████████████| 90 kB 909 kB/s 
+Collecting sphinxcontrib-jsmath
+  Downloading sphinxcontrib_jsmath-1.0.1-py2.py3-none-any.whl (5.1 kB)
+Collecting docutils<0.20,>=0.18
+  Downloading docutils-0.19-py3-none-any.whl (570 kB)
+     |████████████████████████████████| 570 kB 190 kB/s 
+Collecting sphinxcontrib-serializinghtml>=1.1.5
+  Downloading sphinxcontrib_serializinghtml-1.1.5-py2.py3-none-any.whl (94 kB)
+     |████████████████████████████████| 94 kB 1.7 MB/s 
+Collecting alabaster<0.8,>=0.7
+  Downloading alabaster-0.7.13-py3-none-any.whl (13 kB)
+Collecting sphinxcontrib-applehelp
+  Downloading sphinxcontrib_applehelp-1.0.4-py3-none-any.whl (120 kB)
+     |████████████████████████████████| 120 kB 663 kB/s 
+Collecting sphinxcontrib-devhelp
+  Downloading sphinxcontrib_devhelp-1.0.2-py2.py3-none-any.whl (84 kB)
+     |████████████████████████████████| 84 kB 714 kB/s 
+Collecting babel>=2.9
+  Downloading Babel-2.12.1-py3-none-any.whl (10.1 MB)
+     |████████████████████████████████| 10.1 MB 154 kB/s 
+Collecting snowballstemmer>=2.0
+  Downloading snowballstemmer-2.2.0-py2.py3-none-any.whl (93 kB)
+     |████████████████████████████████| 93 kB 138 kB/s 
+Collecting imagesize>=1.3
+  Downloading imagesize-1.4.1-py2.py3-none-any.whl (8.8 kB)
+Collecting sphinxcontrib-htmlhelp>=2.0.0
+  Downloading sphinxcontrib_htmlhelp-2.0.1-py3-none-any.whl (99 kB)
+     |████████████████████████████████| 99 kB 181 kB/s 
+Collecting pybtex-docutils>=1.0.0
+  Downloading pybtex_docutils-1.0.2-py3-none-any.whl (6.3 kB)
+Collecting pybtex>=0.24
+  Downloading pybtex-0.24.0-py2.py3-none-any.whl (561 kB)
+     |████████████████████████████████| 561 kB 83 kB/s 
+Collecting latexcodec>=1.0.4
+  Downloading latexcodec-2.0.1-py2.py3-none-any.whl (18 kB)
+Requirement already satisfied: executing>=1.2.0 in /usr/local/lib/python3.8/dist-packages (from stack-data->ipython>=6.1.0->ipywidgets->nemo-toolkit==1.17.0rc0) (1.2.0)
+Requirement already satisfied: pure-eval in /usr/local/lib/python3.8/dist-packages (from stack-data->ipython>=6.1.0->ipywidgets->nemo-toolkit==1.17.0rc0) (0.2.2)
+Requirement already satisfied: asttokens>=2.1.0 in /usr/local/lib/python3.8/dist-packages (from stack-data->ipython>=6.1.0->ipywidgets->nemo-toolkit==1.17.0rc0) (2.2.1)
+Requirement already satisfied: tensorboard-data-server<0.7.0,>=0.6.0 in /usr/local/lib/python3.8/dist-packages (from tensorboard->nemo-toolkit==1.17.0rc0) (0.6.1)
+Requirement already satisfied: markdown>=2.6.8 in /usr/local/lib/python3.8/dist-packages (from tensorboard->nemo-toolkit==1.17.0rc0) (3.4.1)
+Requirement already satisfied: google-auth<3,>=1.6.3 in /usr/local/lib/python3.8/dist-packages (from tensorboard->nemo-toolkit==1.17.0rc0) (2.16.2)
+Requirement already satisfied: wheel>=0.26 in /usr/local/lib/python3.8/dist-packages (from tensorboard->nemo-toolkit==1.17.0rc0) (0.38.4)
+Requirement already satisfied: grpcio>=1.24.3 in /usr/local/lib/python3.8/dist-packages (from tensorboard->nemo-toolkit==1.17.0rc0) (1.51.3)
+Requirement already satisfied: google-auth-oauthlib<0.5,>=0.4.1 in /usr/local/lib/python3.8/dist-packages (from tensorboard->nemo-toolkit==1.17.0rc0) (0.4.6)
+Requirement already satisfied: tensorboard-plugin-wit>=1.6.0 in /usr/local/lib/python3.8/dist-packages (from tensorboard->nemo-toolkit==1.17.0rc0) (1.8.1)
+Requirement already satisfied: cachetools<6.0,>=2.0.0 in /usr/local/lib/python3.8/dist-packages (from google-auth<3,>=1.6.3->tensorboard->nemo-toolkit==1.17.0rc0) (5.3.0)
+Requirement already satisfied: rsa<5,>=3.1.4 in /usr/local/lib/python3.8/dist-packages (from google-auth<3,>=1.6.3->tensorboard->nemo-toolkit==1.17.0rc0) (4.9)
+Requirement already satisfied: pyasn1-modules>=0.2.1 in /usr/local/lib/python3.8/dist-packages (from google-auth<3,>=1.6.3->tensorboard->nemo-toolkit==1.17.0rc0) (0.2.8)
+Requirement already satisfied: requests-oauthlib>=0.7.0 in /usr/local/lib/python3.8/dist-packages (from google-auth-oauthlib<0.5,>=0.4.1->tensorboard->nemo-toolkit==1.17.0rc0) (1.3.1)
+Requirement already satisfied: pyasn1<0.5.0,>=0.4.6 in /usr/local/lib/python3.8/dist-packages (from pyasn1-modules>=0.2.1->google-auth<3,>=1.6.3->tensorboard->nemo-toolkit==1.17.0rc0) (0.4.8)
+Requirement already satisfied: oauthlib>=3.0.0 in /usr/local/lib/python3.8/dist-packages (from requests-oauthlib>=0.7.0->google-auth-oauthlib<0.5,>=0.4.1->tensorboard->nemo-toolkit==1.17.0rc0) (3.2.2)
+Collecting Levenshtein
+  Downloading Levenshtein-0.20.9-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (174 kB)
+     |████████████████████████████████| 174 kB 176 kB/s 
+Collecting plac
+  Downloading plac-1.3.5-py2.py3-none-any.whl (22 kB)
+Collecting termcolor
+  Downloading termcolor-2.2.0-py3-none-any.whl (6.6 kB)
+Collecting loguru
+  Downloading loguru-0.6.0-py3-none-any.whl (58 kB)
+     |████████████████████████████████| 58 kB 150 kB/s 
+Collecting setproctitle
+  Downloading setproctitle-1.3.2-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl (31 kB)
+Collecting sentry-sdk>=1.0.0
+  Downloading sentry_sdk-1.18.0-py2.py3-none-any.whl (194 kB)
+     |████████████████████████████████| 194 kB 165 kB/s 
+Collecting docker-pycreds>=0.4.0
+  Downloading docker_pycreds-0.4.0-py2.py3-none-any.whl (9.0 kB)
+Collecting GitPython!=3.1.29,>=1.0.0
+  Downloading GitPython-3.1.31-py3-none-any.whl (184 kB)
+     |████████████████████████████████| 184 kB 239 kB/s 
+Collecting pathtools
+  Downloading pathtools-0.1.2.tar.gz (11 kB)
+Collecting gitdb<5,>=4.0.1
+  Downloading gitdb-4.0.10-py3-none-any.whl (62 kB)
+     |████████████████████████████████| 62 kB 139 kB/s 
+Collecting smmap<6,>=3.0.1
+  Downloading smmap-5.0.0-py3-none-any.whl (24 kB)
+Building wheels for collected packages: antlr4-python3-runtime, progress, sacremoses, fasttext, distance, ffmpy, jieba, kaldi-python-io, cdifflib, docopt, rouge-score, ipadic, sentence-transformers, pathtools, wget
+  Building wheel for antlr4-python3-runtime (setup.py) ... done
+  Created wheel for antlr4-python3-runtime: filename=antlr4_python3_runtime-4.9.3-py3-none-any.whl size=144573 sha256=395f43bca07737c5a4844d01823f89818da022b5e4c5d1fce638d274300800d1
+  Stored in directory: /tmp/pip-ephem-wheel-cache-7hqtarbg/wheels/b1/a3/c2/6df046c09459b73cc9bb6c4401b0be6c47048baf9a1617c485
+  Building wheel for progress (setup.py) ... done
+  Created wheel for progress: filename=progress-1.6-py3-none-any.whl size=9630 sha256=fba1e07934165af3a85731ec43471aedccf14b51d4ebe679acc808f949db2143
+  Stored in directory: /tmp/pip-ephem-wheel-cache-7hqtarbg/wheels/bb/01/5a/c916509df9b12c6465864251dbe826def8e31a16fa7da54f08
+  Building wheel for sacremoses (setup.py) ... done
+  Created wheel for sacremoses: filename=sacremoses-0.0.53-py3-none-any.whl size=895258 sha256=6627c63077118c542e66e3a3520bca50ed8bf93861bf0f887f8258c61c937562
+  Stored in directory: /tmp/pip-ephem-wheel-cache-7hqtarbg/wheels/82/ab/9b/c15899bf659ba74f623ac776e861cf2eb8608c1825ddec66a4
+  Building wheel for fasttext (setup.py) ... done
+  Created wheel for fasttext: filename=fasttext-0.9.2-cp38-cp38-linux_x86_64.whl size=4397319 sha256=854a577c9d4043647ae9be0156499054331468743afd55bcfbcf62104f01bf3d
+  Stored in directory: /tmp/pip-ephem-wheel-cache-7hqtarbg/wheels/93/61/2a/c54711a91c418ba06ba195b1d78ff24fcaad8592f2a694ac94
+  Building wheel for distance (setup.py) ... done
+  Created wheel for distance: filename=Distance-0.1.3-py3-none-any.whl size=16275 sha256=03d37fd082d3a3818e3d2f697c823333355f03073eda7f77960bf8baea451b24
+  Stored in directory: /tmp/pip-ephem-wheel-cache-7hqtarbg/wheels/fb/a8/64/6edcab63ec51512a87cacf9b3563c711ad6b7b05d61b704493
+  Building wheel for ffmpy (setup.py) ... done
+  Created wheel for ffmpy: filename=ffmpy-0.3.0-py3-none-any.whl size=4707 sha256=8173fbdd3a57374ac9c773e4a62c677f2206201312e5b61b6327be333f720556
+  Stored in directory: /tmp/pip-ephem-wheel-cache-7hqtarbg/wheels/ff/5b/59/913b443e7369dc04b61f607a746b6f7d83fb65e2e19fcc958d
+  Building wheel for jieba (setup.py) ... done
+  Created wheel for jieba: filename=jieba-0.42.1-py3-none-any.whl size=19314476 sha256=ccad54db0c11e61a420ccc7fdc9fc6c5a9a6766d31070f24cb5c2c0e2c0562af
+  Stored in directory: /tmp/pip-ephem-wheel-cache-7hqtarbg/wheels/ca/38/d8/dfdfe73bec1d12026b30cb7ce8da650f3f0ea2cf155ea018ae
+  Building wheel for kaldi-python-io (setup.py) ... done
+  Created wheel for kaldi-python-io: filename=kaldi_python_io-1.2.2-py3-none-any.whl size=8968 sha256=5bd10adc9d8ab1b46e074a03a5c62cf08d4a2143801459e0b687e882a225d92d
+  Stored in directory: /tmp/pip-ephem-wheel-cache-7hqtarbg/wheels/8c/da/46/4afb7e26376c33af41c3ec388d5b63d34d186f6df1545cac30
+  Building wheel for cdifflib (PEP 517) ... done
+  Created wheel for cdifflib: filename=cdifflib-1.2.6-cp38-cp38-linux_x86_64.whl size=38198 sha256=f741408c2581b3d40e9ae720b8b438da838b398687636a57c42b21c981fa9291
+  Stored in directory: /tmp/pip-ephem-wheel-cache-7hqtarbg/wheels/0f/ae/42/928075504d5f17237e6efae65604402e73598b83d1f4c77b0f
+  Building wheel for docopt (setup.py) ... done
+  Created wheel for docopt: filename=docopt-0.6.2-py2.py3-none-any.whl size=13721 sha256=4db77f97eb6a05c87a1cc4997ce634d7aa5010cad900cdc866191e16ea3873b5
+  Stored in directory: /tmp/pip-ephem-wheel-cache-7hqtarbg/wheels/56/ea/58/ead137b087d9e326852a851351d1debf4ada529b6ac0ec4e8c
+  Building wheel for rouge-score (setup.py) ... done
+  Created wheel for rouge-score: filename=rouge_score-0.1.2-py3-none-any.whl size=24954 sha256=d5ae6513d96649abc7b8bdf34a16c89a5ff7c077ed6277e5dd66ae9479e74aaa
+  Stored in directory: /tmp/pip-ephem-wheel-cache-7hqtarbg/wheels/24/55/6f/ebfc4cb176d1c9665da4e306e1705496206d08215c1acd9dde
+  Building wheel for ipadic (setup.py) ... done
+  Created wheel for ipadic: filename=ipadic-1.0.0-py3-none-any.whl size=13556721 sha256=084a03ac4f5eeb22c25d15aed7f702fc068caf90b8eb51403e6185b22fc3eb00
+  Stored in directory: /tmp/pip-ephem-wheel-cache-7hqtarbg/wheels/45/b7/f5/a21e68db846eedcd00d69e37d60bab3f68eb20b1d99cdff652
+  Building wheel for sentence-transformers (setup.py) ... done
+  Created wheel for sentence-transformers: filename=sentence_transformers-2.2.2-py3-none-any.whl size=125942 sha256=bed7dbe04e5ee9d05605a9304ee3a51bc4be1b26f55df08a6465adfcadcfb183
+  Stored in directory: /tmp/pip-ephem-wheel-cache-7hqtarbg/wheels/5e/6f/8c/d88aec621f3f542d26fac0342bef5e693335d125f4e54aeffe
+  Building wheel for pathtools (setup.py) ... done
+  Created wheel for pathtools: filename=pathtools-0.1.2-py3-none-any.whl size=8807 sha256=49feb2fc3413d43ef484b1c465a3b18a0a51b79973e419cb4accfa26bb95c369
+  Stored in directory: /tmp/pip-ephem-wheel-cache-7hqtarbg/wheels/4c/8e/7e/72fbc243e1aeecae64a96875432e70d4e92f3d2d18123be004
+  Building wheel for wget (setup.py) ... done
+  Created wheel for wget: filename=wget-3.2-py3-none-any.whl size=9673 sha256=5cc81869991d78780fb7396422b1805d2c3b9a1777e75de11077cbf3925ee7a2
+  Stored in directory: /tmp/pip-ephem-wheel-cache-7hqtarbg/wheels/bd/a8/c3/3cf2c14a1837a4e04bd98631724e81f33f462d86a1d895fae0
+Successfully built antlr4-python3-runtime progress sacremoses fasttext distance ffmpy jieba kaldi-python-io cdifflib docopt rouge-score ipadic sentence-transformers pathtools wget
+Installing collected packages: sniffio, multidict, frozenlist, commonmark, click, yarl, uc-micro-py, smmap, shellingham, rich, rfc3986, pyyaml, latexcodec, jmespath, h11, colorama, async-timeout, anyio, aiosignal, websockets, tokenizers, tabulate, starlette, sphinxcontrib-serializinghtml, sphinxcontrib-qthelp, sphinxcontrib-jsmath, sphinxcontrib-htmlhelp, sphinxcontrib-devhelp, sphinxcontrib-applehelp, snowballstemmer, setuptools, ruamel.yaml.clib, rapidfuzz, PySocks, pybtex, pyannote.core, portalocker, lxml, linkify-it-py, itsdangerous, imagesize, huggingface-hub, httpcore, gitdb, entrypoints, docutils, botocore, babel, antlr4-python3-runtime, alabaster, aiohttp, wrapt, widgetsnbextension, wget, uvicorn, typed-ast, transformers, torchmetrics, text-unidecode, termcolor, sphinx, setproctitle, sentry-sdk, sentencepiece, semantic-version, sacremoses, sacrebleu, s3transfer, ruamel.yaml, python-multipart, pypinyin, pynini, pydub, pybtex-docutils, pyannote.database, plac, pathtools, pathspec, orjson, omegaconf, nltk, mecab-python3, mdit-py-plugins, loguru, lightning-utilities, Levenshtein, jupyterlab-widgets, jiwer, ipadic, inflect, httpx, gradio-client, GitPython, Flask, ffmpy, fastapi, docopt, docker-pycreds, distance, cdifflib, braceexpand, appdirs, aniso8601, altair, aiofiles, youtokentome, webdataset, wandb, texterrors, textdistance, sphinxcontrib-bibtex, sox, sentence-transformers, rouge-score, pytorch-lightning, pytest-runner, pypinyin-dict, pyannote.metrics, progress, parameterized, pangu, opencc, nemo-toolkit, nemo-text-processing, marshmallow, kornia, kaldiio, kaldi-python-io, jieba, isort, ipywidgets, ijson, hydra-core, h5py, gradio, gdown, g2p-en, ftfy, flask-restful, fasttext, faiss-cpu, einops, editdistance, boto3, black, attrdict
+  Attempting uninstall: click
+    Found existing installation: click 8.1.3
+    Uninstalling click-8.1.3:
+      Successfully uninstalled click-8.1.3
+  Attempting uninstall: pyyaml
+    Found existing installation: PyYAML 6.0
+    Uninstalling PyYAML-6.0:
+      Successfully uninstalled PyYAML-6.0
+  Attempting uninstall: setuptools
+    Found existing installation: setuptools 67.6.1
+    Uninstalling setuptools-67.6.1:
+      Successfully uninstalled setuptools-67.6.1
+  Attempting uninstall: mdit-py-plugins
+    Found existing installation: mdit-py-plugins 0.3.5
+    Uninstalling mdit-py-plugins-0.3.5:
+      Successfully uninstalled mdit-py-plugins-0.3.5
+  Running setup.py develop for nemo-toolkit
+Successfully installed Flask-2.2.3 GitPython-3.1.31 Levenshtein-0.20.9 PySocks-1.7.1 aiofiles-23.1.0 aiohttp-3.8.4 aiosignal-1.3.1 alabaster-0.7.13 altair-4.2.2 aniso8601-9.0.1 antlr4-python3-runtime-4.9.3 anyio-3.6.2 appdirs-1.4.4 async-timeout-4.0.2 attrdict-2.0.1 babel-2.12.1 black-19.10b0 boto3-1.26.103 botocore-1.29.103 braceexpand-0.1.7 cdifflib-1.2.6 click-8.0.2 colorama-0.4.6 commonmark-0.9.1 distance-0.1.3 docker-pycreds-0.4.0 docopt-0.6.2 docutils-0.19 editdistance-0.6.2 einops-0.6.0 entrypoints-0.4 faiss-cpu-1.7.3 fastapi-0.95.0 fasttext-0.9.2 ffmpy-0.3.0 flask-restful-0.3.9 frozenlist-1.3.3 ftfy-6.1.1 g2p-en-2.1.0 gdown-4.7.1 gitdb-4.0.10 gradio-3.24.0 gradio-client-0.0.5 h11-0.14.0 h5py-3.8.0 httpcore-0.16.3 httpx-0.23.3 huggingface-hub-0.13.3 hydra-core-1.2.0 ijson-3.2.0.post0 imagesize-1.4.1 inflect-6.0.2 ipadic-1.0.0 ipywidgets-8.0.6 isort-5.12.0 itsdangerous-2.1.2 jieba-0.42.1 jiwer-2.5.2 jmespath-1.0.1 jupyterlab-widgets-3.0.7 kaldi-python-io-1.2.2 kaldiio-2.18.0 kornia-0.6.11 latexcodec-2.0.1 lightning-utilities-0.8.0 linkify-it-py-2.0.0 loguru-0.6.0 lxml-4.9.2 marshmallow-3.19.0 mdit-py-plugins-0.3.3 mecab-python3-1.0.5 multidict-6.0.4 nemo-text-processing-0.1.7rc0 nemo-toolkit-1.17.0rc0 nltk-3.8.1 omegaconf-2.2.3 opencc-1.1.6 orjson-3.8.9 pangu-4.0.6.1 parameterized-0.9.0 pathspec-0.11.1 pathtools-0.1.2 plac-1.3.5 portalocker-2.7.0 progress-1.6 pyannote.core-5.0.0 pyannote.database-5.0.0 pyannote.metrics-3.2.1 pybtex-0.24.0 pybtex-docutils-1.0.2 pydub-0.25.1 pynini-2.1.5 pypinyin-0.48.0 pypinyin-dict-0.5.0 pytest-runner-6.0.0 python-multipart-0.0.6 pytorch-lightning-1.9.4 pyyaml-5.4.1 rapidfuzz-2.13.7 rfc3986-1.5.0 rich-12.6.0 rouge-score-0.1.2 ruamel.yaml-0.17.21 ruamel.yaml.clib-0.2.7 s3transfer-0.6.0 sacrebleu-2.3.1 sacremoses-0.0.53 semantic-version-2.10.0 sentence-transformers-2.2.2 sentencepiece-0.1.97 sentry-sdk-1.18.0 setproctitle-1.3.2 setuptools-65.5.1 shellingham-1.5.0.post1 smmap-5.0.0 sniffio-1.3.0 snowballstemmer-2.2.0 sox-1.4.1 sphinx-6.1.3 sphinxcontrib-applehelp-1.0.4 sphinxcontrib-bibtex-2.5.0 sphinxcontrib-devhelp-1.0.2 sphinxcontrib-htmlhelp-2.0.1 sphinxcontrib-jsmath-1.0.1 sphinxcontrib-qthelp-1.0.3 sphinxcontrib-serializinghtml-1.1.5 starlette-0.26.1 tabulate-0.9.0 termcolor-2.2.0 text-unidecode-1.3 textdistance-4.5.0 texterrors-0.4.4 tokenizers-0.13.2 torchmetrics-0.11.4 transformers-4.27.4 typed-ast-1.5.4 uc-micro-py-1.0.1 uvicorn-0.21.1 wandb-0.14.0 webdataset-0.1.62 websockets-10.4 wget-3.2 widgetsnbextension-4.0.7 wrapt-1.15.0 yarl-1.8.2 youtokentome-1.0.6
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+WARNING: You are using pip version 21.2.4; however, version 23.0.1 is available.
+You should consider upgrading via the '/usr/bin/python -m pip install --upgrade pip' command.
+All done!

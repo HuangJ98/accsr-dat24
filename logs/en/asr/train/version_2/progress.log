@@ -1,0 +1,14 @@
+2023-06-26 14:25:35,896 - progress - INFO - Configuring optimizers
+2023-06-26 14:25:36,108 - progress - INFO - Creating dataloader for ['logs/en/asr/train/version_2/data/en/debug/train_us.txt', 'logs/en/asr/train/version_2/data/en/debug/train_in.txt']
+2023-06-26 14:25:36,109 - progress - INFO - 	Dataloader config: {'sample_rate': 16000, 'batch_size': 2, 'num_workers': 0, 'pin_memory': True, 'use_start_end_token': False, 'trim_silence': False, 'is_tarred': False, 'tarred_audio_filepaths': None, 'shuffle_n': 2048, 'bucketing_strategy': 'synced_randomized', 'bucketing_batch_size': None, 'return_sample_id': False, 'drop_last': False, 'shuffle': True, 'manifest_filepath': ['logs/en/asr/train/version_2/data/en/debug/train_us.txt', 'logs/en/asr/train/version_2/data/en/debug/train_in.txt']}
+2023-06-26 14:25:36,110 - progress - INFO - 	Batch size: 2
+2023-06-26 14:25:36,124 - progress - INFO - Creating dataloader for logs/en/asr/train/version_2/data/en/debug/test_us.txt
+2023-06-26 14:25:36,125 - progress - INFO - 	Dataloader config: {'sample_rate': 16000, 'batch_size': 2, 'num_workers': 0, 'pin_memory': True, 'use_start_end_token': False, 'trim_silence': False, 'is_tarred': False, 'tarred_audio_filepaths': None, 'shuffle_n': 2048, 'bucketing_strategy': 'synced_randomized', 'bucketing_batch_size': None, 'return_sample_id': False, 'drop_last': False, 'shuffle': False, 'manifest_filepath': 'logs/en/asr/train/version_2/data/en/debug/test_us.txt'}
+2023-06-26 14:25:36,126 - progress - INFO - 	Batch size: 2
+2023-06-26 14:25:36,130 - progress - INFO - Creating dataloader for logs/en/asr/train/version_2/data/en/debug/test_in.txt
+2023-06-26 14:25:36,131 - progress - INFO - 	Dataloader config: {'sample_rate': 16000, 'batch_size': 2, 'num_workers': 0, 'pin_memory': True, 'use_start_end_token': False, 'trim_silence': False, 'is_tarred': False, 'tarred_audio_filepaths': None, 'shuffle_n': 2048, 'bucketing_strategy': 'synced_randomized', 'bucketing_batch_size': None, 'return_sample_id': False, 'drop_last': False, 'shuffle': False, 'manifest_filepath': 'logs/en/asr/train/version_2/data/en/debug/test_in.txt'}
+2023-06-26 14:25:36,132 - progress - INFO - 	Batch size: 2
+2023-06-26 14:25:38,043 - progress - WARNING - Error on batch 0: 'Whisper' object has no attribute '_compute_mels'
+2023-06-26 14:25:38,607 - progress - WARNING - Error on batch 1: 'Whisper' object has no attribute '_compute_mels'
+2023-06-26 14:25:39,159 - progress - WARNING - Error on batch 2: 'Whisper' object has no attribute '_compute_mels'
+2023-06-26 14:25:39,799 - progress - WARNING - Error on batch 3: 'Whisper' object has no attribute '_compute_mels'

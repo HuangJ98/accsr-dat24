@@ -1,0 +1,4 @@
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_16812.mp3", "text": "but don't worry the alchemist continued", "duration": 10}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_16814.mp3", "text": "the old man knew how to read, and had already read the book", "duration": 10}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_60682.mp3", "text": "a white and black dog is jumping in the air trying to catch a tennis ball", "duration": 10}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_60683.mp3", "text": "man in white shirt standing in a city street", "duration": 10}

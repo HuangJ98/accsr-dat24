@@ -1,0 +1,2 @@
+{"audio_filepath": "/ds/audio/CommonVoiceCorpus10.0_EN//cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_30506519.mp3", "text": "webber", "duration": 2.0}
+{"audio_filepath": "/ds/audio/CommonVoiceCorpus10.0_EN//cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_30506520.mp3", "text": "he also served as the chaplain of the pittsburgh steelers", "duration": 4.8}

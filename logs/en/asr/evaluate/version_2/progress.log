@@ -1,0 +1,42 @@
+2023-06-16 15:27:46,717 - progress - INFO - Creating dataloader for /tmp/tmpbptfmwea/manifest.json
+2023-06-16 15:27:46,718 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmpbptfmwea/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000}
+2023-06-16 15:27:46,718 - progress - INFO - 	Batch size: 12
+2023-06-16 15:34:59,581 - progress - INFO - Creating dataloader for /tmp/tmpswzje1_0/manifest.json
+2023-06-16 15:34:59,598 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmpswzje1_0/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000}
+2023-06-16 15:34:59,599 - progress - INFO - 	Batch size: 12
+2023-06-16 15:37:57,755 - progress - INFO - Creating dataloader for /tmp/tmpewwhv7u3/manifest.json
+2023-06-16 15:37:57,769 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmpewwhv7u3/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000}
+2023-06-16 15:37:57,770 - progress - INFO - 	Batch size: 12
+2023-06-16 15:55:29,416 - progress - INFO - Creating dataloader for /tmp/tmp5copcc2r/manifest.json
+2023-06-16 15:55:29,462 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmp5copcc2r/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000}
+2023-06-16 15:55:29,463 - progress - INFO - 	Batch size: 12
+2023-06-16 16:04:20,224 - progress - INFO - Creating dataloader for /tmp/tmpzajntwta/manifest.json
+2023-06-16 16:04:20,224 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmpzajntwta/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000}
+2023-06-16 16:04:20,225 - progress - INFO - 	Batch size: 12
+2023-06-16 16:07:46,909 - progress - INFO - Creating dataloader for /tmp/tmp73g5h948/manifest.json
+2023-06-16 16:07:46,925 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmp73g5h948/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000}
+2023-06-16 16:07:46,926 - progress - INFO - 	Batch size: 12
+2023-06-16 16:15:32,166 - progress - INFO - Creating dataloader for /tmp/tmpqw4g2dxw/manifest.json
+2023-06-16 16:15:32,182 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmpqw4g2dxw/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000}
+2023-06-16 16:15:32,183 - progress - INFO - 	Batch size: 12
+2023-06-16 16:37:43,257 - progress - INFO - Creating dataloader for /tmp/tmptd9uct96/manifest.json
+2023-06-16 16:37:43,274 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmptd9uct96/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000}
+2023-06-16 16:37:43,275 - progress - INFO - 	Batch size: 12
+2023-06-16 16:42:05,628 - progress - INFO - Creating dataloader for /tmp/tmpqxlozq_z/manifest.json
+2023-06-16 16:42:05,648 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmpqxlozq_z/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000}
+2023-06-16 16:42:05,649 - progress - INFO - 	Batch size: 12
+2023-06-16 16:49:10,423 - progress - INFO - Creating dataloader for /tmp/tmpe1r8pf2w/manifest.json
+2023-06-16 16:49:10,435 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmpe1r8pf2w/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000}
+2023-06-16 16:49:10,436 - progress - INFO - 	Batch size: 12
+2023-06-16 16:54:13,700 - progress - INFO - Creating dataloader for /tmp/tmpengj31wx/manifest.json
+2023-06-16 16:54:13,717 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmpengj31wx/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000}
+2023-06-16 16:54:13,717 - progress - INFO - 	Batch size: 12
+2023-06-16 17:57:55,377 - progress - INFO - Creating dataloader for /tmp/tmpk5m3nz3l/manifest.json
+2023-06-16 17:57:55,392 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmpk5m3nz3l/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000}
+2023-06-16 17:57:55,392 - progress - INFO - 	Batch size: 12
+2023-06-16 18:08:02,375 - progress - INFO - Creating dataloader for /tmp/tmpnxaiqjtd/manifest.json
+2023-06-16 18:08:02,376 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmpnxaiqjtd/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000}
+2023-06-16 18:08:02,376 - progress - INFO - 	Batch size: 12
+2023-06-16 18:17:55,892 - progress - INFO - Creating dataloader for /tmp/tmptdd0o5cv/manifest.json
+2023-06-16 18:17:55,916 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmptdd0o5cv/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000}
+2023-06-16 18:17:55,917 - progress - INFO - 	Batch size: 12

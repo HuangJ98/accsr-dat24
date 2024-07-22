@@ -1,0 +1,132 @@
+job: analysis
+language: en
+ckpt_asr: logs/en/asr/train/version_12/checkpoints/last.ckpt
+ckpt_ac:
+  b7: logs/en/ensemble/train/binary/b7/DAT/version_66/checkpoints/last.ckpt
+asr_file: config/asr/whisper_small.yaml
+ac_file: config/ac/binary.yaml
+data_file: config/data/en.yaml
+trainer_file: config/trainer/whisper.yaml
+ensemble:
+  branch: 7
+  ac_weight: 1
+  asr_weight: 1
+  mode: DAT
+  action: train
+components:
+  GradChecker:
+    branches:
+    - 7
+    ac_weights:
+    - 0.1
+    asr_weights:
+    - 0.9
+    trained_asr:
+    - true
+    trained_ac:
+    - true
+  MAPSSWE:
+    path_a: logs/en/asr/evaluate/version_9/results.json
+    path_b: logs/en/asr/evaluate/version_6/results.json
+asr:
+  repo: whisper
+  cls: src.asr.whisper_ptl.WhisperWrapper
+  model: small
+  ckpt: null
+ac:
+  classname: AC
+  ckpt: null
+  n_accents: 2
+  dropout: null
+  binary: true
+  mode: DAT
+  optim: ${optim}
+  input_size: 768
+  alpha: 1
+data:
+  root: /ds/audio
+  folder: data/en/train_subset
+  max_dur: 20
+  min_dur: 0.1
+  seen_accents:
+  - us
+  - ca
+  - uk
+  - in
+  - de
+  - au
+  unseen_accents:
+  - hk
+  - ie
+  - ni
+  - nz
+  - ph
+  - sc
+  - sg
+  - za
+  config:
+    sample_rate: 16000
+    batch_size: 8
+    num_workers: 10
+    pin_memory: true
+    use_start_end_token: false
+    trim_silence: false
+    is_tarred: false
+    tarred_audio_filepaths: null
+    shuffle_n: 2048
+    bucketing_strategy: synced_randomized
+    bucketing_batch_size: null
+    return_sample_id: false
+    drop_last: false
+    asr_repo: whisper
+  config_pretrain:
+    shuffle: true
+  config_train:
+    shuffle: true
+  config_test:
+    shuffle: false
+  spec_augment:
+    _target_: nemo.collections.asr.modules.SpectrogramAugmentation
+    freq_masks: 2
+    time_masks: 10
+    freq_width: 27
+    time_width: 0.05
+  train_files:
+  - logs/en/analysis/version_4/data/en/train_subset/train_us.txt
+  - logs/en/analysis/version_4/data/en/train_subset/train_ca.txt
+  - logs/en/analysis/version_4/data/en/train_subset/train_uk.txt
+  - logs/en/analysis/version_4/data/en/train_subset/train_in.txt
+  - logs/en/analysis/version_4/data/en/train_subset/train_de.txt
+  - logs/en/analysis/version_4/data/en/train_subset/train_au.txt
+  test_files:
+  - logs/en/analysis/version_4/data/en/train_subset/test_us.txt
+  - logs/en/analysis/version_4/data/en/train_subset/test_ca.txt
+  - logs/en/analysis/version_4/data/en/train_subset/test_uk.txt
+  - logs/en/analysis/version_4/data/en/train_subset/test_in.txt
+  - logs/en/analysis/version_4/data/en/train_subset/test_de.txt
+  - logs/en/analysis/version_4/data/en/train_subset/test_au.txt
+  - logs/en/analysis/version_4/data/en/train_subset/test_hk.txt
+  - logs/en/analysis/version_4/data/en/train_subset/test_ie.txt
+  - logs/en/analysis/version_4/data/en/train_subset/test_ni.txt
+  - logs/en/analysis/version_4/data/en/train_subset/test_nz.txt
+  - logs/en/analysis/version_4/data/en/train_subset/test_ph.txt
+  - logs/en/analysis/version_4/data/en/train_subset/test_sc.txt
+  - logs/en/analysis/version_4/data/en/train_subset/test_sg.txt
+  - logs/en/analysis/version_4/data/en/train_subset/test_za.txt
+trainer:
+  max_epochs: 10
+  accumulate_grad_batches: 8
+  limit_train_batches: 1.0
+  limit_val_batches: 1.0
+  devices: 1
+  nodes: 1
+optim:
+  lr: 0.0001
+  eps: 0.1
+  weight_decay: 0.001
+  ac_args:
+    lr: 0.01
+  sched:
+    warmup_steps: 500
+    max_steps: true
+commit_hash: 636a514

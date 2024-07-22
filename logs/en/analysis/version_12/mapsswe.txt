@@ -1,0 +1,16 @@
+Test set P-value
+test_za.txt 1.0000
+test_sg.txt 1.0000
+test_in.txt 1.0000
+test_au.txt 1.0000
+test_hk.txt 1.0000
+test_ie.txt 1.0000
+test_uk.txt 1.0000
+test_ph.txt 1.0000
+test_de.txt 1.0000
+test_ni.txt 1.0000
+test_us.txt 1.0000
+test_ca.txt 1.0000
+test_nz.txt 1.0000
+test_sc.txt 1.0000
+all	1.0000

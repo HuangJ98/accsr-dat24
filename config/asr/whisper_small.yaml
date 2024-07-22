@@ -1,0 +1,4 @@
+asr:
+  classname: whisper
+  size: small
+  ckpt: null # if null, the pre-trained model is used.

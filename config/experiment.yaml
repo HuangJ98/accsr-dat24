@@ -1,0 +1,31 @@
+job: experiment # can be experiment or analysis (relevant for picking the experiment folder)
+
+language: en # can be de or en; used to pick the logging folder
+
+data_file: config/data/debug_en.yaml
+trainer_file: config/trainer/whisper.yaml
+
+# ENSEMBLE MODEL (ASR + AC)
+ensemble:
+  branch: 7 # number of encoder blocks that are shared among the ASR and the AC.
+  ac_weight: 1
+  asr_weight: 1
+  mode: DAT # can be either DAT, SwitchDAT or MTL
+  action: train_asr
+
+# ASR MODEL
+asr:
+  repo: whisper # can be whisper or nemo
+  cls: src.asr.whisper_ptl.WhisperWrapper
+  model: small
+  ckpt: null # logs/en/asr/train/version_0/checkpoints/last.ckpt
+
+# ACCENT CLASSIFIER
+ac:
+  classname: AC # can be any classifier that receives as input the output of a large conformer block
+  ckpt: null # file to initialize the classifier. If null, the classifier is initialized randomly.
+  n_accents: 2 # no. of accents in the training set. Must equal the number of training files.
+  dropout: null # dropout probability for all layers
+  binary: true # whether the classifier is binary or not
+  mode: DAT # required if ensemble.mode=SwitchDAT; this mode is used for the individual ACs. Can be DAT or MTL.
+  optim: ${optim} # required by SwitchDAT to train the ACs

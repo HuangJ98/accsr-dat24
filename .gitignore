@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.ckpt
+.code-server
+.DS_Store
+enc_out

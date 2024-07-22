@@ -1,0 +1,1 @@
+{"audio_filepath": "/ds/audio/CommonVoiceCorpus10.0_EN//cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_32493965.mp3", "text": "he is also the president of the board of the advertising people association", "duration": 6.6}

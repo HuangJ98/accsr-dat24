@@ -1,0 +1,16 @@
+Test set P-value
+test_za.txt 0.2498
+test_sg.txt 0.4540
+test_in.txt 0.8663
+test_au.txt 0.6125
+test_hk.txt 0.4775
+test_ie.txt 0.5000
+test_uk.txt 0.0821
+test_ph.txt 0.0200
+test_de.txt 0.4143
+test_ni.txt 0.9872
+test_us.txt 0.3996
+test_ca.txt 0.9215
+test_nz.txt 0.0064
+test_sc.txt 0.8541
+all	0.5342

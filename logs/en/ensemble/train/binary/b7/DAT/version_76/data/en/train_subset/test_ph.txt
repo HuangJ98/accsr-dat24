@@ -1,0 +1,510 @@
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17461104.mp3", "text": "after the accident his bicycle had to be repaired", "duration": 9.5760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22168521.mp3", "text": "nine", "duration": 2.0160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19734819.mp3", "text": "i do as i please", "duration": 3.1920181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_500301.mp3", "text": "i've been looking for you all morning he said as he led the boy outside", "duration": 9.3360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17269040.mp3", "text": "i think it came in a long red box", "duration": 2.7360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17269044.mp3", "text": "after writing a bug report one should regularly check if someone responded", "duration": 5.4}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_31828214.mp3", "text": "flowers often have dark pink petal edges and cream centers", "duration": 6.7680272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17528595.mp3", "text": "he kept driving at full speed totally unfazed by the flap flap flap of the burst tyre", "duration": 7.5840362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_27653453.mp3", "text": "then he moved to ronceverte west virginia", "duration": 4.6080272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21087884.mp3", "text": "in one memorable episode victor told her loudly to shut up to her surprise", "duration": 7.6080272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_20311852.mp3", "text": "the rerelease includes some additional tracks including i'm so attractive", "duration": 5.1120181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_42579.mp3", "text": "we are part of that soul so we rarely recognize that it is working for us", "duration": 6.6480272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_505391.mp3", "text": "use a pencil to write the first draft", "duration": 4.4160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_13478.mp3", "text": "palm oil is cheap but workers on illegal plantations get exploited and huge areas of jungle get destroyed for its production", "duration": 8.9040362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17275054.mp3", "text": "oh my god they killed kenny", "duration": 3.36}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17275059.mp3", "text": "because of my depression i have been recommended to see a psychiatrist", "duration": 5.1840362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_20555218.mp3", "text": "seat reservations were mandatory", "duration": 4.1520181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18253952.mp3", "text": "i have previously read the book", "duration": 4.3440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17404287.mp3", "text": "may i borrow your bolster", "duration": 4.2480272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17404318.mp3", "text": "you made your bed now you must lie in it", "duration": 4.6320181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17288934.mp3", "text": "if you lose your temper don't look for it", "duration": 4.5840362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17288938.mp3", "text": "she expects that her birthday cake should be pink not purple", "duration": 5.3520181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22241332.mp3", "text": "yes", "duration": 3.36}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22241349.mp3", "text": "zero", "duration": 2.4}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22241350.mp3", "text": "four", "duration": 2.3520181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_152369.mp3", "text": "there the alchemist separated the disk into four parts", "duration": 6.7920181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_152370.mp3", "text": "the land was ruined and i had to find some other way to earn a living", "duration": 7.3440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_152377.mp3", "text": "then came the night of the first falling star", "duration": 6.6240362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25819757.mp3", "text": "this battery was commanded at the outbreak of the war by major andrew mcnaughton", "duration": 10.1160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25819758.mp3", "text": "the program requires these companies to stay in baltimore for five years", "duration": 8.4960090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_662365.mp3", "text": "he had been to the village only once the year before", "duration": 4.1040362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_660526.mp3", "text": "i had a dream and i met with a king", "duration": 4.9920181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_660530.mp3", "text": "i had the everyone has gary busey's teeth dream again", "duration": 6.6960090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_660532.mp3", "text": "i thought about the difficulties in translation that might arise", "duration": 5.76}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18829190.mp3", "text": "that's what makes us want to do another record", "duration": 4.2240362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_103510.mp3", "text": "he could always become a crystal salesman again", "duration": 4.2240362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_103515.mp3", "text": "it's called the principle of favorability beginner's luck", "duration": 5.0880272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_103520.mp3", "text": "don't forget that everything you deal with is only one thing and nothing else", "duration": 5.4}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23427518.mp3", "text": "most cuban exiles in the united states are both legally and selfdescribed political refugees", "duration": 6.8640362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_564720.mp3", "text": "one women is paying for a purchase while two other women look at magazines", "duration": 7.3920181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19684291.mp3", "text": "notice time appears implicitly via the coordinates and explicitly in the constraint equations", "duration": 10.3920181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19684293.mp3", "text": "at the time they were an established brand with a twentyyear head start", "duration": 6.96}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_181399.mp3", "text": "i just want to dream about mecca", "duration": 4.1040362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_620193.mp3", "text": "go and speak to the tribal chieftains said the camel driver", "duration": 4.7040362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_620197.mp3", "text": "the boy and the englishman had bought camels and climbed uncertainly onto their backs", "duration": 7.8960090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_26285154.mp3", "text": "he used oil or grease to lubricate the cylinder", "duration": 5.1480272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_26285226.mp3", "text": "it is usual to provide duplicate keys on each side of the keyboard", "duration": 5.58}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19055597.mp3", "text": "most of these used a transformerless power supply circuit", "duration": 4.8240362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19055627.mp3", "text": "both imply a customer lifetime of four years", "duration": 4.68}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_32357549.mp3", "text": "he was married twice and had two daughters", "duration": 3.42}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_32357534.mp3", "text": "a plaque commemorates the abductees on the wall of the building", "duration": 4.9680272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24001040.mp3", "text": "he currently holds the positions of chairman president and chief executive officer", "duration": 5.58}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_579140.mp3", "text": "i found these one day in the fields", "duration": 3.2640362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_579146.mp3", "text": "the people will enjoy the tea and want to buy the glasses", "duration": 4.7040362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23657480.mp3", "text": "nonessential federal government offices are closed", "duration": 6.8160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23657489.mp3", "text": "however they could not make it together and divorced afterwards", "duration": 7.2240362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23657531.mp3", "text": "however historical data on some objects is available spanning centuries or millennia", "duration": 8.7360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23657534.mp3", "text": "he is also involved in narrating short films and commercials", "duration": 6.5040362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_532635.mp3", "text": "he bears misery best that hides it most", "duration": 5.7120181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28678204.mp3", "text": "there are no open sights for rough laying of the piece", "duration": 5.6160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28678362.mp3", "text": "he was a righthanded batsman and wicketkeeper", "duration": 4.7160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28678364.mp3", "text": "it is part of krifast the town of kristiansund's road connection to the mainland", "duration": 6.7680272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28678405.mp3", "text": "upon his arrival laval was adamant in asserting his primacy over the governor", "duration": 8.28}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19750373.mp3", "text": "there are several stories about where buckonine's name came from", "duration": 5.3520181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19750463.mp3", "text": "surprising even himself ryo agreed to join and he and kaho became friends", "duration": 7.8720181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_586154.mp3", "text": "now give us sixty days on this", "duration": 2.7360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_586170.mp3", "text": "you're losing your eye", "duration": 5.3760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23840867.mp3", "text": "another medical contribution was the discovery and naming of mongolian spot", "duration": 6.9840362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23840876.mp3", "text": "they declined and he was returned unopposed", "duration": 4.7520181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23840906.mp3", "text": "he also featured in the challenge cup against doncaster and warrington wolves", "duration": 6.2640362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_26614391.mp3", "text": "the crew abandons the submarine with the enigma in their possession", "duration": 6.2280272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_26614392.mp3", "text": "the company has withstood the taste of time", "duration": 4.6080272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_26614437.mp3", "text": "firefly  the world's greatest saboteur firefly's background is said to be a mystery", "duration": 7.7760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17927449.mp3", "text": "tiger woods is a famous golfer", "duration": 4.3680272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17927455.mp3", "text": "he smoke a big pipe with strong contents", "duration": 3.48}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17927457.mp3", "text": "what a dreadful rash you have on your legs", "duration": 3.4320181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18012402.mp3", "text": "what sort of man is he", "duration": 2.7840362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19984994.mp3", "text": "i'll write a song for you was featured in the movie sprung", "duration": 7.3680272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19991643.mp3", "text": "both overwinter in the egg stage in the soil", "duration": 7.2}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19991693.mp3", "text": "captive males however have been known to mate with four or five females", "duration": 6.0960090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19991718.mp3", "text": "this station was converted to a residence with interior walls and an expansion", "duration": 6.36}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19991842.mp3", "text": "edwards enjoyed traveling having crossed the atlantic so frequently that he had lost count", "duration": 7.8720181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18674003.mp3", "text": "she is credited for her songs in the credits", "duration": 3.6960090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18674005.mp3", "text": "lord asriel intervened and killed coulter", "duration": 4.3440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18674048.mp3", "text": "it is one of many organisms to have had its genome sequenced", "duration": 4.8960090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18335801.mp3", "text": "they just lay off in the bush and plugged away", "duration": 4.1280272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18336202.mp3", "text": "they were babbling and chattering all together", "duration": 3.8640362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18336232.mp3", "text": "there is not an iota of truth in it certainly not", "duration": 4.5360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18336240.mp3", "text": "the problem was that the system had not worked for the past week", "duration": 4.2240362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28073078.mp3", "text": "the reform created modern sections in which ancient languages weren't compulsory", "duration": 6.1560090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28073106.mp3", "text": "wild xenopus are much larger than their captive bred counterparts", "duration": 5.6160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28073145.mp3", "text": "hedingham omnibuses has been criticised three times for incidents involving disabled people", "duration": 6.5160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28073157.mp3", "text": "relief efforts were difficult as few roads existed in the isolated settlement", "duration": 6.12}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28073168.mp3", "text": "lone fight is a fluent speaker of the hidatsa language and a traditionalist", "duration": 5.58}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28073180.mp3", "text": "showtime received negative reviews from critics", "duration": 3.8160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28073181.mp3", "text": "many stations use sophisticated computerised playout systems for music and jingles", "duration": 6.3}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28884016.mp3", "text": "once recruited the general will no longer be encountered in random battles", "duration": 8.2440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28884028.mp3", "text": "the farmers are protesting against the state government order", "duration": 6.48}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22165823.mp3", "text": "yes", "duration": 3.4560090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22165874.mp3", "text": "two", "duration": 2.9040362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22165925.mp3", "text": "bahram also ordered the killing of many manicheans", "duration": 8.7360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22166095.mp3", "text": "henry petty younger son of sir william petty and lady shelburne", "duration": 5.6640362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22166097.mp3", "text": "they have a daughter salma", "duration": 3.48}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22166275.mp3", "text": "the local authority is redbridge london borough council", "duration": 5.88}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_131648.mp3", "text": "an hour later he had before him a chest of spanish gold coins", "duration": 5.6640362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_131651.mp3", "text": "i have had the same dream twice he said", "duration": 4.44}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_131669.mp3", "text": "somewhere you are holding the person i love the boy said", "duration": 4.2240362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23386623.mp3", "text": "last year the number was so low that they let us put tax exempt", "duration": 6.0240362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23392815.mp3", "text": "oh i dont like that name either", "duration": 2.9040362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23392833.mp3", "text": "sawyer took over from interim mayor david duvall orr", "duration": 4.7760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23392834.mp3", "text": "he was buried at spring hill cemetery in lynchburg virginia", "duration": 4.1040362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24978050.mp3", "text": "at the battle of perryville he was again wounded", "duration": 3.7080272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24978146.mp3", "text": "lilliput meanwhile was divided among several petty kingdoms", "duration": 3.6360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17147867.mp3", "text": "alexander was not sure why she did it", "duration": 4.2480272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17147871.mp3", "text": "the determinant is the product of all eigenvectors of a matrix", "duration": 7.4640362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17147879.mp3", "text": "how old are you", "duration": 2.4720181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17147883.mp3", "text": "the toilet needed cleaning", "duration": 3.4320181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17147898.mp3", "text": "beggars can't be choosers", "duration": 3.5280272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19986587.mp3", "text": "the ladinian is coeval with the falangian chinese regional stage", "duration": 7.4640362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28489074.mp3", "text": "there is also no regulation for international students tuition fees in the framework", "duration": 6.9480272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28489120.mp3", "text": "the actor identified with his character often dressing as a cowboy in public", "duration": 6.5880272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28489597.mp3", "text": "kung fu panda was also well received in china", "duration": 4.2480272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28507702.mp3", "text": "it is also called a test set butt set or buttinski", "duration": 6.0840362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28684369.mp3", "text": "he said it should have been done years ago everybody knew it", "duration": 5.6880272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_27574944.mp3", "text": "crazy lace agate found in mexico is often brightly colored and complexly patterned", "duration": 6.5520181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_27574955.mp3", "text": "they received poor critical reviews although the performance was popular with their fans", "duration": 5.6880272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_27574966.mp3", "text": "this common passerine is typically found in open woodland and cultivation", "duration": 5.76}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_27574985.mp3", "text": "it is located in dubuque iowa", "duration": 3.24}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_27575001.mp3", "text": "mckinnie played college football for two years at lackawanna college in scranton pennsylvania", "duration": 5.9040362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_27575013.mp3", "text": "d anjaneylu mentions that it is a notable work", "duration": 5.0760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23610642.mp3", "text": "also in that year he was elected as an alderman to vancouver city council", "duration": 6.5520181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23610655.mp3", "text": "erotic materials produced by the agency were distributed over the internet to various countries", "duration": 7.8960090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23610663.mp3", "text": "he endeavored to address some of these dilemmas using allusions taken from the bible", "duration": 6.36}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23610664.mp3", "text": "she is the third modern makar the scottish poet laureate", "duration": 5.3280272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23610682.mp3", "text": "but before the marriage could take place lorenz was murdered", "duration": 5.3040362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23610739.mp3", "text": "the two lakes were nearly the same level and no change of altitude", "duration": 5.9280272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_123973.mp3", "text": "because life wants you to achieve your destiny", "duration": 5.6640362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_123979.mp3", "text": "they become the soul o f the world", "duration": 4.3440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_123992.mp3", "text": "you're looking for witch doctors he spoke some verses from the koran and moved on", "duration": 6.7440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_598914.mp3", "text": "but he decided first to buy his bakery and put some money aside", "duration": 4.8240362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_598915.mp3", "text": "we're refugees from the tribal wars and we need money the other figure said", "duration": 9.2160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_598920.mp3", "text": "he reached over and picked up a shell from the ground", "duration": 3.12}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_598929.mp3", "text": "should i understand the emerald tablet the boy asked", "duration": 5.04}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_598933.mp3", "text": "that it was unable to deal with this boy who spoke the language of the world", "duration": 8.64}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_598953.mp3", "text": "they're not concerned with that right now", "duration": 4.2240362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_598960.mp3", "text": "he told me i should try to do so", "duration": 2.88}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_598973.mp3", "text": "well i'd like to see their land and see how they live said his son", "duration": 10.2720181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_656302.mp3", "text": "i thought about whether we should find coins and models in it and so on", "duration": 6.8880272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_656312.mp3", "text": "before guns were invented armies had to throw bullets at each other and if a bullet touched you you had to sit out until the next war", "duration": 9.5040362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_656313.mp3", "text": "you can't believe it's not butter", "duration": 2.9520181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_656325.mp3", "text": "hires two personal trainers and make one of them train the other one", "duration": 5.5440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_656329.mp3", "text": "he moved about invisible but everyone could hear him", "duration": 3.7920181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_656337.mp3", "text": "at the first glance it was really not very exciting", "duration": 4.56}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_656346.mp3", "text": "even then he hardly understood what this meant", "duration": 4.2960090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_656352.mp3", "text": "the two men hurried back and found the cylinder still lying in the same position", "duration": 4.68}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17280975.mp3", "text": "no one near the remote machine you could ring", "duration": 3.3360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18922218.mp3", "text": "but the legality of the election itself is not in dispute", "duration": 6.0960090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18922236.mp3", "text": "however there was growing recognition of the diverse musical and ideological potential of rock", "duration": 8.0160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18922244.mp3", "text": "in the following year he was promoted to a colonelcy", "duration": 4.9920181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18922255.mp3", "text": "one of his most noted critics was the historian geoffrey elton", "duration": 6.2640362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18922258.mp3", "text": "careful choice of homesteading location is essential for economic success", "duration": 6.3120181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_568159.mp3", "text": "you can create bookmarks in you web browser to make browsing more convenient", "duration": 5.6160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_568171.mp3", "text": "that couldn't be one of the matthew boys", "duration": 3.9120181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_568174.mp3", "text": "do you know what's wrong with you", "duration": 2.4720181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_568185.mp3", "text": "according to the sign no parking today because of the movie shoot", "duration": 5.1840362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_568192.mp3", "text": "four hundred and fifty dollars", "duration": 3.8880272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_568195.mp3", "text": "a man doesn't get in a situation like this every day", "duration": 4.4160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_568201.mp3", "text": "i don't think this theory explains why the particles attract each other this strongly", "duration": 7.2240362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_568204.mp3", "text": "there might be secret messages in this text", "duration": 4.2480272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_568206.mp3", "text": "you're not going anywhere", "duration": 2.7120181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_568210.mp3", "text": "you dont compare directly to existing stateoftheart methods", "duration": 5.9760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_568212.mp3", "text": "all the birds began to sing at the first light of dawn", "duration": 4.2480272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_568215.mp3", "text": "they have cheap sausages and fries at the brewery tomorrow", "duration": 5.52}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_568230.mp3", "text": "suppose there was a shane york and he walked into this office", "duration": 4.9440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18841281.mp3", "text": "princess galyani vadhana was interested in photography", "duration": 5.3760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18841294.mp3", "text": "the union published the dockers' record as a monthly report of its activities", "duration": 5.9760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18841327.mp3", "text": "she had voice role in walt disney's dinosaur", "duration": 4.3440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18841332.mp3", "text": "he practiced and wrote with skill and sense", "duration": 3.2160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18841467.mp3", "text": "khulna is under the jurisdiction of the jessore education board", "duration": 6.2640362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18841475.mp3", "text": "bolder was born in kingston upon hull east riding of yorkshire england", "duration": 6.8640362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18851725.mp3", "text": "the financial situation was a source of very grave anxiety", "duration": 5.1360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18851733.mp3", "text": "the erbium doped amplifier is a high gain amplifier", "duration": 4.2240362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21106556.mp3", "text": "some evidence suggests that a pictish kingdom also existed in orkney", "duration": 6.2880272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21106587.mp3", "text": "it has previously operated as a tenminute news bulletin in a local newspaper", "duration": 6.48}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21106613.mp3", "text": "it has since been expanded into a large resort with hotels and other facilities", "duration": 5.8320181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21106614.mp3", "text": "the royal princes were confined to the capital city", "duration": 5.7360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21106615.mp3", "text": "he belonged to the order of christ", "duration": 2.7120181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21106711.mp3", "text": "the position adopted in the statement of fundamental truths regarding sanctification was less clear", "duration": 7.3680272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21250830.mp3", "text": "dover is married to kathleen with a son and a daughter amanda", "duration": 6.36}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21250832.mp3", "text": "technical and maintenance failures severe weather and vandalism have led to some service disruptions", "duration": 8.28}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21250862.mp3", "text": "this museum holds the documented evidence of the agricultural history of the area", "duration": 6.0480272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21250878.mp3", "text": "this is the largest capital project in the city's history", "duration": 4.6560090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21250880.mp3", "text": "and they all gathered round to have a look", "duration": 3.7680272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21250933.mp3", "text": "to lose one of us is tough", "duration": 3.1680272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18618447.mp3", "text": "it's ok don't hold back", "duration": 3.0240362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24443826.mp3", "text": "moreover the title of count of barcelona is now merged with the spanish crown", "duration": 5.6880272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24444114.mp3", "text": "she continues to write and also creates pottery and cooks", "duration": 6.48}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24444228.mp3", "text": "circling the building he spotted several suspicious men watching from various positions", "duration": 7.8120181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24444301.mp3", "text": "it can only play hucard games", "duration": 3.8520181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24444305.mp3", "text": "additionally the first issue of the club's magazine was produced", "duration": 5.1840362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24444336.mp3", "text": "from india he set out for bushire shiraz isfahan and tabriz", "duration": 8.1360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24444339.mp3", "text": "harriet thorpe plays cat rogers an actress who is busy understudying multiple roles", "duration": 9.8280272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24444396.mp3", "text": "he died as a result of numerous medical problems including thirddegree frostbite", "duration": 6.84}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18714871.mp3", "text": "combat occurs when the party runs into one or more enemies", "duration": 4.6560090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18714876.mp3", "text": "as bozz's squad nears he opens fire", "duration": 3.9360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18714945.mp3", "text": "wildlife in the area includes wild boar and red deer", "duration": 4.6560090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18714976.mp3", "text": "over time enrollment fell and the school was frequently threatened with closure", "duration": 6.1440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18714990.mp3", "text": "i was the goalkeeper for liverpool", "duration": 3.2640362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18715005.mp3", "text": "when pork spareribs or another meat is used instead the dish is named accordingly", "duration": 5.9760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18715023.mp3", "text": "the multiplayer mode is not included in the game boy version", "duration": 4.4640362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18715029.mp3", "text": "today the abbey is a private residence and is not open to the public", "duration": 5.2560090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18715034.mp3", "text": "the processes are used for scientific industrial and commercial purposes", "duration": 5.3760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18715965.mp3", "text": "she was given music singing foreign languages lessons", "duration": 4.6560090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18715970.mp3", "text": "it featured independent suspension on all four wheels as well as friction drive", "duration": 5.7360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18715979.mp3", "text": "while doing so the sustainable yield may be much less", "duration": 4.4160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18715988.mp3", "text": "the game ends soon after the stock has run out", "duration": 3.6960090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18716010.mp3", "text": "many later swore they were threatened and beaten during questioning", "duration": 4.4640362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18716015.mp3", "text": "the key aspect of rare's methodology is their pride campaign's", "duration": 5.2560090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_18716016.mp3", "text": "all of the other dancers leave the floor", "duration": 2.9760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17776132.mp3", "text": "although searching in binary search trees is efficient you won't find any fruits in there", "duration": 6.3360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17776137.mp3", "text": "what is today", "duration": 2.3040362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17776149.mp3", "text": "the term just my two cents is about opinion not about money", "duration": 4.5360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17776153.mp3", "text": "but what is the use of talking", "duration": 2.5440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17776154.mp3", "text": "come in come in", "duration": 1.9440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17776179.mp3", "text": "what is the matter with you", "duration": 2.0160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17776181.mp3", "text": "check the copyright trademark and patent information contained on the website", "duration": 4.5360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17776192.mp3", "text": "why didn't you come to our launch party", "duration": 3.1440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17776194.mp3", "text": "at first studying correlation in graphs is tough for me", "duration": 4.1760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17776196.mp3", "text": "and what are you doing here", "duration": 2.7840362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17776197.mp3", "text": "have you met catherine", "duration": 2.2560090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17776208.mp3", "text": "oh i know it", "duration": 1.8240362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17776211.mp3", "text": "and which family would that be", "duration": 2.7840362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17776216.mp3", "text": "what else could it be", "duration": 2.1840362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17776217.mp3", "text": "it is a magical world filled with elves dwarves and dragons", "duration": 4.7040362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17776228.mp3", "text": "sooner or later three brothers three castles", "duration": 4.2960090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17776231.mp3", "text": "i guess it's a neverending story", "duration": 3.3840362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17776236.mp3", "text": "they both stormed out neither thinking to fill me in on where they were going", "duration": 5.3040362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17776238.mp3", "text": "no that was never his real plan", "duration": 2.7840362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21948840.mp3", "text": "two", "duration": 1.9440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21948883.mp3", "text": "firefox", "duration": 2.6640362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21948888.mp3", "text": "the full story was never clear", "duration": 3.0480272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21949004.mp3", "text": "an exception to the registration requirement was formerly made for experimental namespaces", "duration": 6.6240362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21949042.mp3", "text": "gismondi was particularly interested in architectonic aspects of ancient building", "duration": 6.0960090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21949256.mp3", "text": "he was educated at rongotai college and wellington teacher's training college", "duration": 4.8240362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21949579.mp3", "text": "when the initial director of photography was fired steckler replaced him", "duration": 5.28}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21949658.mp3", "text": "the closure not only affected asheron's call but also its sequel", "duration": 5.4}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21949723.mp3", "text": "the factory has a series of sidings and a container loading centre", "duration": 5.0880272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21949728.mp3", "text": "he was subsequently ruled out for another two to four weeks", "duration": 4.3440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21949731.mp3", "text": "the song was also a top ten hit in germany austria and the netherlands", "duration": 6.1680272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21949743.mp3", "text": "composed of tom colt flyin' bryan hicks tanner watson and previously andy webb", "duration": 7.2}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21949895.mp3", "text": "the main field has a running track around it", "duration": 3.48}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23881946.mp3", "text": "his music has been recorded on a number of labels including harmonia mundi", "duration": 5.9280272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23881960.mp3", "text": "of the hens pleased with that some laid eggs in his lap", "duration": 5.5440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23882003.mp3", "text": "schell entered a convent school in the new york city borough of staten island", "duration": 7.1520181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23882165.mp3", "text": "therefore ceasing to be nazirite requires a sinoffering", "duration": 5.04}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23882185.mp3", "text": "it is often seen in small noisy flocks of seven", "duration": 4.1520181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23882188.mp3", "text": "no human cases of lagos bat virus infection have been documented", "duration": 6.36}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23885171.mp3", "text": "one wish was chosen as the first single over keep sweatin and quit actin", "duration": 7.0560090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_27603716.mp3", "text": "the casino consists of three interconnected buildings", "duration": 4.7880272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_27603746.mp3", "text": "the united nations estimates that one million children are forced into prostitution every year", "duration": 8.3880272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_15652.mp3", "text": "don't put yourself out", "duration": 1.7280272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_15653.mp3", "text": "why do people have really good ideas in the shower", "duration": 3.3840362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_15654.mp3", "text": "the lightbulbs need changing again", "duration": 2.3280272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_15662.mp3", "text": "why do you think i brought you here", "duration": 2.8080272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_15666.mp3", "text": "is that what you want me to tell vincent", "duration": 2.52}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_15677.mp3", "text": "they raised their glasses in the old bar", "duration": 3.3120181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_15679.mp3", "text": "the cistern was malfunctioning", "duration": 2.3280272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_15683.mp3", "text": "mineral water please", "duration": 2.1360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_15684.mp3", "text": "the girls are going to the movie theater", "duration": 2.64}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_15685.mp3", "text": "shawty you look jawdropping in that jersey", "duration": 4.1520181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_15695.mp3", "text": "who's gonna get him", "duration": 2.04}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_15696.mp3", "text": "we'll pay all your expenses", "duration": 2.1360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_15702.mp3", "text": "it's still sopping wet", "duration": 2.16}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_15720.mp3", "text": "my biggest complaint at this point remains the error when looking towards the sides of my screen", "duration": 6.8640362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_15722.mp3", "text": "can you remember anything at all", "duration": 2.7840362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_15733.mp3", "text": "it wasn't there", "duration": 1.8960090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_15735.mp3", "text": "the children were almost tyrannical", "duration": 3.9360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_15739.mp3", "text": "and that other honeymoon in a coal mine", "duration": 2.52}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_15741.mp3", "text": "i'll get the tickets", "duration": 1.56}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17453326.mp3", "text": "medley hotchpotch", "duration": 2.3520181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17453362.mp3", "text": "i want to go on", "duration": 2.28}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17453376.mp3", "text": "operating on dynamic data sets is difficult", "duration": 3.6240362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17453394.mp3", "text": "mayonnaise is made from eggs oil vinegar and mustard", "duration": 5.0160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_17453422.mp3", "text": "the beatles were a famous english rock band", "duration": 2.8080272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19260943.mp3", "text": "both names are used by the south slavs and romanians", "duration": 5.4720181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19843086.mp3", "text": "scott's assistant architect william hay oversaw the nave's construction", "duration": 6.2160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19843089.mp3", "text": "it was named for joseph baddeley", "duration": 3.7680272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19843764.mp3", "text": "kinney also served as a story director in films featuring mickey mouse and pluto", "duration": 5.7120181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19843778.mp3", "text": "in civilization v she speaks phoenician with a modern israeli accent", "duration": 5.88}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19843780.mp3", "text": "allyls acrylates and styrenics contain vinyl groups", "duration": 5.5680272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19843810.mp3", "text": "as such to keep the series funded the move was necessary", "duration": 5.8560090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19843814.mp3", "text": "he is buried in berlin cemetery berlin new jersey", "duration": 5.2080272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19843820.mp3", "text": "the district serves portions of western houston including most of spring branch", "duration": 5.9040362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19843836.mp3", "text": "keesing was a major contributor to anthropology", "duration": 4.32}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19843860.mp3", "text": "embedded help is not to be confused with a software wizard", "duration": 4.68}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19843863.mp3", "text": "there are no contemporary attestations of such a halfdan", "duration": 5.7360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19843869.mp3", "text": "few of the island's soils are well suited to agriculture", "duration": 4.9440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19843870.mp3", "text": "she performed regularly in concert and opera", "duration": 4.4160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19843885.mp3", "text": "the carlstadt police department is headed by police chief thomas nielsen", "duration": 4.7520181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19848085.mp3", "text": "on the same day the paper's website was revamped and expanded", "duration": 5.0880272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19848093.mp3", "text": "edmund was also a humanitarian and heavily involved in muncie's civic activities", "duration": 6.3120181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19848099.mp3", "text": "imprecise movement can cause a dragging when the user just wants to select", "duration": 4.8}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19848113.mp3", "text": "sangster's father's family is from banchory scotland", "duration": 5.1120181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_19848115.mp3", "text": "he was commissioned a reserve second lieutenant upon completion of platoon commander's school", "duration": 6.9360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_20039916.mp3", "text": "he returned to england and drew up his charts", "duration": 3.9120181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_20039994.mp3", "text": "the raid was entirely successful", "duration": 3.1920181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_20040045.mp3", "text": "the town is deserted and they find no living people on the surface", "duration": 5.28}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_20040197.mp3", "text": "males and females are similar in size", "duration": 3.0960090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_20040286.mp3", "text": "because of its scenic beauty harpswell is today a favorite with artists and tourists", "duration": 6.0960090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_20040342.mp3", "text": "the village of armada is located within the township", "duration": 3.7920181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_20040357.mp3", "text": "banning was not content to consolidate business interests in staging", "duration": 5.2080272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_20040368.mp3", "text": "with hydrogen chloride it forms chloroacrylic acid", "duration": 4.3920181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_20040370.mp3", "text": "her community outreach is bringing awareness to domestic violence literacy and mentoring our youth", "duration": 7.4160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_20040379.mp3", "text": "the series was then discontinued", "duration": 3.1680272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_20040392.mp3", "text": "the library is open to students and the public by appointment", "duration": 3.8880272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_20040393.mp3", "text": "there is a wedding chapel in the rear and gardens nearby", "duration": 4.0320181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_20057170.mp3", "text": "private secondary schools are also available via numerous bus services that service the township", "duration": 7.3440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_20057199.mp3", "text": "the texas tortoise unlike other species of gopher tortoise are not adept burrowers", "duration": 6.7920181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_20057335.mp3", "text": "a regulator such as a thermostat is an example of a feedback controller", "duration": 5.3760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_20057358.mp3", "text": "the character's name was hackett's own real name", "duration": 3.6720181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_20057401.mp3", "text": "the area also produces tomatoes and cucumbers", "duration": 4.7040362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25947527.mp3", "text": "usually only the first two and last two verses are performed", "duration": 5.3280272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25947529.mp3", "text": "therefore there is another hour", "duration": 4.14}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25947564.mp3", "text": "many famous members left the party", "duration": 3.4560090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25947577.mp3", "text": "it is adorned with a sculpted twoheaded eagle inside a coat of arms", "duration": 5.94}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25947601.mp3", "text": "the inner muscles of the pharynx form different layers of circular and longitudinal fibers", "duration": 6.84}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25947624.mp3", "text": "no wedding without flowers or shroud without tears", "duration": 3.78}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25947634.mp3", "text": "he retires from competition a few days after the end of the championship", "duration": 5.7960090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25947667.mp3", "text": "their parents were mariano and juana antonia", "duration": 4.4280272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25947700.mp3", "text": "this is really a key precondition for successful multifaceted work", "duration": 5.0760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25947715.mp3", "text": "when he came back to uruguay he made his first solo exposition", "duration": 5.1480272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25947729.mp3", "text": "this expedition is still considered to be the most important expedition that took place in the area", "duration": 6.84}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25947732.mp3", "text": "but the direct cause of this incident was that the chutian metropolis daily exaggerated the standards for brighteners", "duration": 7.74}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25947855.mp3", "text": "the hotel is on the french commune of villerscotterts in the aisne department", "duration": 6.1560090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25947916.mp3", "text": "its so nice that one sit there and not utter a word", "duration": 3.8880272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25947930.mp3", "text": "he also has recorded all concertos and sonatas for the piano of mozart", "duration": 5.4360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25947944.mp3", "text": "he then began studying the bible", "duration": 2.9880272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25947986.mp3", "text": "the territory also included a few areas governed by independent caciques or vassals", "duration": 5.5080272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25948005.mp3", "text": "now it has grown and now stands in a high scientific level and has formed a family", "duration": 5.76}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25948096.mp3", "text": "the team won many titles in competitions within los angeles and the state of california", "duration": 6.1560090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23954317.mp3", "text": "the current secretary of agriculture is former georgia governor sonny perdue", "duration": 7.9440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23954387.mp3", "text": "it is an important industrial area in the economy of the vibo valentia province", "duration": 6.5280272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23954436.mp3", "text": "he was replaced by nick morrell a former chief executive of the observer", "duration": 6.6720181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23954437.mp3", "text": "mount diablo has inspired many artists and writers", "duration": 5.7120181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23960272.mp3", "text": "they were ordered to wait for the rest of the fleet to return", "duration": 4.8720181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23960281.mp3", "text": "production featuring joel grey and gretchen wyler", "duration": 4.9920181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23960326.mp3", "text": "managers and coaches are not permitted to vote for players on their own team", "duration": 6.0480272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23960339.mp3", "text": "saildrive also reduces propeller walk reduces vibration and is more efficient", "duration": 7.2240362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23960342.mp3", "text": "therefore only row echelon forms are considered in the remainder of this article", "duration": 6.4560090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23960395.mp3", "text": "cohen then asked composer miklos rozsa to score the film", "duration": 5.52}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23960460.mp3", "text": "atka airport is the island's only airstrip", "duration": 4.2720181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23960505.mp3", "text": "the forested area is ideal for the cranefly orchid a rare species in ohio", "duration": 7.2960090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23960514.mp3", "text": "the large junk in this class can be removed surgically", "duration": 4.8}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23960515.mp3", "text": "during the blackouts there are no cooking facilities", "duration": 4.4880272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23960546.mp3", "text": "if a black cat walks towards someone that person will have bad luck", "duration": 5.76}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23960556.mp3", "text": "the series was quite popular often getting the cover illustration", "duration": 4.9680272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23960557.mp3", "text": "by his own account he missed deploying to the gulf war by a hair", "duration": 5.1360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23960571.mp3", "text": "on the other hand congruences are not closed under union", "duration": 5.1360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23960572.mp3", "text": "he was speedily fatigued by this excessive haste", "duration": 4.4880272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25115500.mp3", "text": "his son william bellinger bulloch later represented georgia in the united states senate", "duration": 9.9720181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25115564.mp3", "text": "humphreys was appointed to a commission to negotiate treaties of commerce with european nations", "duration": 7.1640362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25116450.mp3", "text": "reid lives in perth with his partner robyn mulcahy", "duration": 6.4440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25116471.mp3", "text": "the broncos had previously been located in hutchinson before moving to wichita", "duration": 7.4160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25116479.mp3", "text": "none of the watermills are left today", "duration": 3.2760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25116496.mp3", "text": "as the last notes die away we see his embittered and alienated adulthood", "duration": 6.7680272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25116546.mp3", "text": "dane worked on the family farm in ipswich until he turned twenty", "duration": 5.1480272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25118775.mp3", "text": "the same year he also won the american league most valuable player award", "duration": 5.5440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25118852.mp3", "text": "administered intravenously doxapram stimulates an increase in tidal volume and respiratory rate", "duration": 8.64}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25118939.mp3", "text": "they rejected the traditions of their fathers and embraced the traditions of the nephites", "duration": 6.5520181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25118943.mp3", "text": "after hearing the choices durst said landis as in director john landis", "duration": 7.02}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25118967.mp3", "text": "the network of rivers is rather complex", "duration": 3.7440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25118999.mp3", "text": "he also works for the bureau of investigative journalism in london", "duration": 4.4640362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25119010.mp3", "text": "one famous product of the centre is andy murray who often trained there", "duration": 5.4}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25119081.mp3", "text": "a glass bottle is usually used as the bridge which helps amplify the sound", "duration": 5.6160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25119103.mp3", "text": "kuleshov demonstrated the necessity of considering montage as the basic tool of cinema art", "duration": 5.9040362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25119126.mp3", "text": "he has also played for veracruz of mexico and real valladolid of spain", "duration": 6.0480272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25119127.mp3", "text": "glenn's guitar sounds very scotty moore with a distant amplifier", "duration": 5.04}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25119135.mp3", "text": "in a wellknown reaction malonic acid condenses with urea to form barbituric acid", "duration": 6.9480272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25124084.mp3", "text": "its observation arc begins with its official discovery observation at uccle", "duration": 6.3360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_25124121.mp3", "text": "optical tomography is used mostly in medical imaging research", "duration": 4.1760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24510917.mp3", "text": "delusions common as the illness progresses tend to be poorly systematized and absurd", "duration": 8.3520181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24510920.mp3", "text": "the most important prey was the wild reindeer", "duration": 5.1480272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24510959.mp3", "text": "casey therefore ran for reelection as an independent", "duration": 5.1480272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24510999.mp3", "text": "it is urease and catalase positive", "duration": 4.68}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24511017.mp3", "text": "but at least they're trying and that in itself is good news", "duration": 6.5880272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24511032.mp3", "text": "another theory connects the gnomes with the sightings of red squirrels", "duration": 5.8320181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24511048.mp3", "text": "compounding economic difficulties were new military challenges", "duration": 6.1560090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24535829.mp3", "text": "george would form a grudging friendship with tom willis", "duration": 5.2560090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24535839.mp3", "text": "they were doing things nobody was doing", "duration": 4.0320181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24535849.mp3", "text": "its structural integrity was compromised and then the oil spill occurred", "duration": 6.0840362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24535897.mp3", "text": "he died in florence", "duration": 3.3480272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24535903.mp3", "text": "it is possibly due to the effect of increased temperature on nerve conduction", "duration": 5.5440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24535904.mp3", "text": "they also rejected the doctrine of original sin", "duration": 4.6440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24535907.mp3", "text": "duppas hill was croydon's first recreation ground", "duration": 4.6080272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24535923.mp3", "text": "years of attendance in brackets", "duration": 2.9880272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24535938.mp3", "text": "most of the cavalier poets were courtiers with notable exceptions", "duration": 5.2920181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24535942.mp3", "text": "snead wrote several golf instructional books and frequently wrote instructional columns in golf magazines", "duration": 7.92}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_30099094.mp3", "text": "the network had affiliates in five other cities", "duration": 4.14}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_31865338.mp3", "text": "he has been director of the national conservatory of music", "duration": 4.6080272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_31865396.mp3", "text": "it is located adjacent to the kingston railway station", "duration": 5.1120181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_31865518.mp3", "text": "the design shows his skill as an architect", "duration": 3.7440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_31865568.mp3", "text": "she is the inventor of oracle numerology", "duration": 3.8520181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_32174729.mp3", "text": "the glabrous branchlets have reddish brown coloured new growth that is sometimes scurfy", "duration": 7.0560090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21012282.mp3", "text": "the unincorporated communities of exile and rock elm are located in the town", "duration": 5.5440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21012343.mp3", "text": "faster synchronous modes are used more frequently", "duration": 4.4640362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21013284.mp3", "text": "he also competed in several nonchampionship grand prix", "duration": 4.7760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21013391.mp3", "text": "countless chinese civilians were executed on the suspicion of being resistance fighters", "duration": 5.9760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21013450.mp3", "text": "the series was presented alternately by tommy boyd mike brosnan and michaela strachan", "duration": 7.2960090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21013879.mp3", "text": "life for a soldadera camp follower or soldier was extremely hard", "duration": 5.4240362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21014054.mp3", "text": "the south parking lot has a kiss and ride loop", "duration": 4.2240362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21014153.mp3", "text": "none of the winners has received the award more than once so far", "duration": 4.5360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21014440.mp3", "text": "the program also is popular with parents of homeschooled children", "duration": 4.8960090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21014506.mp3", "text": "information about igor comes mostly from the primary chronicle", "duration": 4.5840362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21014659.mp3", "text": "a swallow i think and sometimes a bird of paradise", "duration": 4.4160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21014670.mp3", "text": "his daughter merrill fortier was born in the october following his death", "duration": 6.0240362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21015708.mp3", "text": "when asked about the metamorphosis she replied i guess that means i'm female", "duration": 5.7840362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21015868.mp3", "text": "in france again there were many local variants", "duration": 4.1760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21015926.mp3", "text": "he was succeeded in his titles by his younger brother dudley", "duration": 4.2240362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21216609.mp3", "text": "such parametric curves can then be integrated and differentiated termwise", "duration": 5.1840362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21216724.mp3", "text": "the report by chris blackhurst described a seamy saga of smears death and vendetta", "duration": 6.9840362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21216750.mp3", "text": "the sterochemistry of the base was resolved into two isomers by using tartaric acid", "duration": 5.9040362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21216763.mp3", "text": "alberto was recalled to the national team under coach javier aguirre's second stint", "duration": 6.0960090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21216800.mp3", "text": "santa fe springs became a promoters' paradise", "duration": 3.8160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21216914.mp3", "text": "however the term can also be applied to transgressive literature as well", "duration": 5.1360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21216915.mp3", "text": "the area has several mountain lakes walnut forests and mineral waters", "duration": 5.3040362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_21216993.mp3", "text": "he considered himself an italian di nation lucchese of lucchese nationality", "duration": 6.3360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22223762.mp3", "text": "six", "duration": 1.9440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22223763.mp3", "text": "nine", "duration": 1.9440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22223887.mp3", "text": "he is known for cooking on a barbecue at his shows", "duration": 4.6560090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22248790.mp3", "text": "herbert crawshay bailey fourth son of the first baron", "duration": 4.7040362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22248812.mp3", "text": "one of the cell cycle checkpoints occurs during prometaphase and metaphase", "duration": 7.8960090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22248821.mp3", "text": "he did not merely play a cop walking the beat on 'the odd couple'", "duration": 5.3760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22248824.mp3", "text": "chicks are fed mainly insects and the occasional lizard", "duration": 6.5760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22248826.mp3", "text": "source reduction is typically measured by efficiencies and cutbacks in waste", "duration": 6.6960090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22248861.mp3", "text": "thompson publications of chicago agreed to publish the magazine", "duration": 5.5440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22248872.mp3", "text": "harrison attended anderson's university and then the glasgow mechanics' institution specialising in chemistry", "duration": 8.9760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22248878.mp3", "text": "he is the founder and current president of the organisation painting and patronage", "duration": 5.6160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22248920.mp3", "text": "ferguson denied the charge", "duration": 2.9760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22248923.mp3", "text": "the game was met with mixed to positive reception", "duration": 3.7440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22248939.mp3", "text": "other parties that existed never did gain any representation in parliament", "duration": 6.1440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22255119.mp3", "text": "note there is also another quincy township in houghton county", "duration": 6.4560090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22264626.mp3", "text": "the stem is thick and short", "duration": 2.9040362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22264826.mp3", "text": "various similar programs exist in canada and other countries", "duration": 4.8960090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22264913.mp3", "text": "in some cases an urban county may have more than one prefix", "duration": 5.3040362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22264939.mp3", "text": "atchison is also a member of the saskatchewan grand lodge of freemasons", "duration": 8.2560090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22264984.mp3", "text": "it has been refurbished converting the rooms to ensuite", "duration": 5.0160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22265014.mp3", "text": "little evidence of it now remains", "duration": 3.7440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22265027.mp3", "text": "it is turner's last studio album before her retirement from recording", "duration": 5.9760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22265132.mp3", "text": "wedlock would then resell kanter's jokes to cantor", "duration": 5.6160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22322055.mp3", "text": "his seat has been drepung", "duration": 2.7360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22322098.mp3", "text": "the attack was unsuccessful and the plane suffered engine failure forcing it to land", "duration": 6.6240362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22322118.mp3", "text": "the fair is held annually in late march to early april", "duration": 4.8960090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22322138.mp3", "text": "a person with klismaphilia is a klismaphile or klismaphiliac", "duration": 7.2960090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22322151.mp3", "text": "succinct circuits are simple machines used to describe graphs in exponentially less space", "duration": 9.3840362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22322163.mp3", "text": "both types of ranches are controversial", "duration": 3.8160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_22322204.mp3", "text": "stress and a heart condition were the official reasons for his death", "duration": 5.4240362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23865902.mp3", "text": "the idea of a national convention is itself foreign to standard primitive baptist concepts", "duration": 7.7040362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23865959.mp3", "text": "the hospital is not yet developed fully", "duration": 3.4560090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23865960.mp3", "text": "the extra pins are a separate path to allow latched read and write operations", "duration": 5.8560090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23871296.mp3", "text": "it has also been used in the process of silvering mirrors", "duration": 4.7760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23871347.mp3", "text": "there is a terrain park located on the winslow side", "duration": 4.2240362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23930397.mp3", "text": "victory comes once they are defeated", "duration": 3.3840362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23930400.mp3", "text": "likewise two foods could have the same glycemic load but cause different insulin responses", "duration": 7.3440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23930444.mp3", "text": "his mother was a school teacher and father a school principal", "duration": 4.4160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23930459.mp3", "text": "bell is selfexplanatory", "duration": 2.9760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_23930471.mp3", "text": "both ships sank about noon in the visayan sea after numerous air attacks", "duration": 5.6160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24546290.mp3", "text": "it was the school's sixth final four appearance", "duration": 3.9960090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24546295.mp3", "text": "he eventually became national secretary of the service workers' union", "duration": 4.7880272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24546298.mp3", "text": "most organic solvents are flammable or highly flammable depending on their volatility", "duration": 5.5080272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24546299.mp3", "text": "the walls of the dried pods contain opiate alkaloids primarily consisting of morphine", "duration": 6.7680272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_24546313.mp3", "text": "perfect for both beginners and advance surfers", "duration": 3.8160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_26450165.mp3", "text": "her first legislative assistant was a young stephen harper", "duration": 5.4360090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_26450169.mp3", "text": "she also served on the senate state veterans and military affairs committee", "duration": 6.66}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_26450223.mp3", "text": "the schnitzel mix on the single is identical to the album version", "duration": 5.4720181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_26450255.mp3", "text": "the following year was made a knight of the national order of quebec", "duration": 5.3280272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_26629699.mp3", "text": "ecocritics have drawn connections between literature and the natural sciences", "duration": 5.9760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_26629723.mp3", "text": "a third of this area is covered by water and marshes", "duration": 4.7520181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_26629796.mp3", "text": "this leads to powerful cars which are lightweight and fast", "duration": 4.7520181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_27613553.mp3", "text": "there are a few drawbacks of the program itself", "duration": 4.3560090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_27613592.mp3", "text": "even he only comes twice a week to sit in chambers", "duration": 4.7160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_27613593.mp3", "text": "do you mind if i take a picture", "duration": 2.8440362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_27613719.mp3", "text": "one probe survived landing and transmitted data from the surface for over an hour", "duration": 6.9840362812}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28095829.mp3", "text": "it covers industrial conditions strikes workplace organizing experiences and features on labor history", "duration": 9.2520181406}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28572543.mp3", "text": "he drops his crutches and begins to walk unassisted", "duration": 5.0760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28106842.mp3", "text": "criticism has been made of the programme by fair trade activists", "duration": 4.8960090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28106844.mp3", "text": "later the company was revived as a loyalist force during the american revolutionary war", "duration": 6.48}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28106857.mp3", "text": "most people visit oneida county to enjoy its lakes", "duration": 4.7160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28106890.mp3", "text": "no official english name exists but quebec provincial police is a common translation", "duration": 6.66}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28106948.mp3", "text": "the lyrics of lions were another target for the critics", "duration": 4.7160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28106963.mp3", "text": "pangborn came from a writing family", "duration": 3.5280272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28107352.mp3", "text": "it was an addition serving as a twentyroom dormitory for forty men", "duration": 5.4}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28107385.mp3", "text": "patrice lumumba the first prime minister of the congo was murdered", "duration": 6.5880272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28107387.mp3", "text": "the following year he stood in the belfast central byelection as an antipartition candidate", "duration": 7.02}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28107424.mp3", "text": "in its last year the band changed its name to euroboys before splitting up", "duration": 5.76}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28107460.mp3", "text": "pennypacker doctor martin van nostrand and professor peter van nostrand are the most popular", "duration": 9.6480272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28107480.mp3", "text": "sankardev was reluctant to convert a king and declined to do so", "duration": 5.2560090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28107484.mp3", "text": "carl walther studied under gunsmith willibald barthelmes and later under albin schneider", "duration": 8.3160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28107495.mp3", "text": "he was born in weston ontario  the son of lithuanianborn parents", "duration": 7.0560090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28107513.mp3", "text": "he had a special fondness for cavalier and roundhead pictures", "duration": 4.9680272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28107532.mp3", "text": "across the street from the library is dean college", "duration": 4.7880272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28107540.mp3", "text": "there was also an ultraforce action figure line produced by galoob", "duration": 5.6880272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28107589.mp3", "text": "summer arrives and dawn is relieved that school is over for the timebeing", "duration": 5.8680272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28186472.mp3", "text": "on the day after the trade stackhouse was waived by the grizzlies", "duration": 5.0760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28186621.mp3", "text": "common are cow parsley various species centaurea tansy and verbascum densiflorum", "duration": 8.0280272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28186777.mp3", "text": "the school developed rapidly as the population in kowloon grew", "duration": 5.0760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28186781.mp3", "text": "the device is finished in polished stainless steel", "duration": 4.1760090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28186786.mp3", "text": "they will ruin your happiness", "duration": 3.4560090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28186915.mp3", "text": "the penner river flows along its western and chitravati river along its eastern boundary", "duration": 7.4160090703}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28187095.mp3", "text": "it won one award  the best production design category", "duration": 4.9680272109}
+{"audio_filepath": "/ds/audio/cv-corpus-10.0-2022-07-04/en/clips/common_voice_en_28187118.mp3", "text": "it serves the gallions reach retail park", "duration": 4.2480272109}

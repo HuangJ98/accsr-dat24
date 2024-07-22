@@ -1,0 +1,10 @@
+torch==2.0.0
+torchvision==0.15.1
+torchaudio==2.0.1
+nemo_toolkit[all]==1.17.0
+resampy==0.4.2
+openai-whisper==20230314
+evaluate==0.4.0
+
+flake8==6.0.0
+black==19.10b0

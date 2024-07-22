@@ -1,0 +1,113 @@
+job: experiment
+language: en
+data_file: config/data/asr_eval.yaml
+trainer_file: config/trainer/asr_eval.yaml
+ensemble:
+  branch: 7
+  ac_weight: 1
+  asr_weight: 1
+  mode: DAT
+  action: evaluate_asr
+asr:
+  repo: whisper
+  cls: src.asr.whisper_ptl.WhisperWrapper
+  model: small
+  ckpt: logs/en/ensemble/train/binary/b7/DAT/version_97/checkpoints/last.ckpt
+ac:
+  classname: X_Vector
+  ckpt: logs/en/ac/train/binary/b7/version_51/checkpoints/last.ckpt
+  n_accents: 2
+  dropout: null
+  binary: true
+  mode: DAT
+  optim:
+    lr: 1.0e-05
+    eps: 1.0e-08
+    weight_decay: 0.01
+    ac_args:
+      lr: 0.01
+    sched:
+      warmup_steps: 500
+      max_steps: true
+  input_size: 1500
+  alpha: 1
+data:
+  root: /ds/audio
+  folder: data/en/train_split
+  max_dur: 20
+  min_dur: 0.1
+  seen_accents:
+  - us
+  - ca
+  - uk
+  - in
+  - de
+  - au
+  unseen_accents:
+  - hk
+  - ie
+  - ni
+  - nz
+  - ph
+  - sc
+  - sg
+  - za
+  config:
+    sample_rate: 16000
+    batch_size: 12
+    num_workers: 10
+    pin_memory: true
+    use_start_end_token: false
+    trim_silence: false
+    is_tarred: false
+    tarred_audio_filepaths: null
+    shuffle_n: 2048
+    bucketing_strategy: synced_randomized
+    bucketing_batch_size: null
+    return_sample_id: false
+    drop_last: false
+    asr_repo: whisper
+  config_pretrain:
+    shuffle: true
+  config_train:
+    shuffle: true
+  config_test:
+    shuffle: false
+  spec_augment:
+    _target_: nemo.collections.asr.modules.SpectrogramAugmentation
+    freq_masks: 2
+    time_masks: 10
+    freq_width: 27
+    time_width: 0.05
+  test_files:
+  - logs/en/asr/evaluate/version_56/data/en/train_split/test_us.txt
+  - logs/en/asr/evaluate/version_56/data/en/train_split/test_ca.txt
+  - logs/en/asr/evaluate/version_56/data/en/train_split/test_uk.txt
+  - logs/en/asr/evaluate/version_56/data/en/train_split/test_in.txt
+  - logs/en/asr/evaluate/version_56/data/en/train_split/test_de.txt
+  - logs/en/asr/evaluate/version_56/data/en/train_split/test_au.txt
+  - logs/en/asr/evaluate/version_56/data/en/train_split/test_hk.txt
+  - logs/en/asr/evaluate/version_56/data/en/train_split/test_ie.txt
+  - logs/en/asr/evaluate/version_56/data/en/train_split/test_ni.txt
+  - logs/en/asr/evaluate/version_56/data/en/train_split/test_nz.txt
+  - logs/en/asr/evaluate/version_56/data/en/train_split/test_ph.txt
+  - logs/en/asr/evaluate/version_56/data/en/train_split/test_sc.txt
+  - logs/en/asr/evaluate/version_56/data/en/train_split/test_sg.txt
+  - logs/en/asr/evaluate/version_56/data/en/train_split/test_za.txt
+trainer:
+  max_epochs: 1
+  accumulate_grad_batches: 1
+  limit_train_batches: 1.0
+  limit_val_batches: 1.0
+  devices: 1
+  nodes: 1
+optim:
+  lr: 1.0e-05
+  eps: 1.0e-08
+  weight_decay: 0.01
+  ac_args:
+    lr: 0.01
+  sched:
+    warmup_steps: 500
+    max_steps: true
+commit_hash: 5d165a0

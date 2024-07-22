@@ -1,0 +1,360 @@
+Number of unique accents: 176
+
+Number of entries for each unique accent: 
+
+('United States English', 382626)
+('England English', 134126)
+('India and South Asia (India, Pakistan, Sri Lanka)', 99613)
+('Canadian English', 59342)
+('Australian English', 51108)
+('German English,Non native speaker', 40897)
+('Scottish English', 15474)
+('New Zealand English', 11877)
+('Irish English', 9461)
+('Southern African (South Africa, Zimbabwe, Namibia)', 8374)
+('Northern Irish', 5968)
+('Filipino', 5105)
+('Hong Kong English', 4260)
+('Singaporean English', 3365)
+('England English,New Zealand English', 2046)
+('Malaysian English', 1772)
+('Welsh English', 1632)
+('West Indies and Bermuda (Bahamas, Bermuda, Jamaica, Trinidad)', 699)
+('southern United States,United States English', 296)
+('United States English,Midwestern,Minnesotan', 248)
+('South Atlantic (Falkland Islands, Saint Helena)', 203)
+('England English,Northern England', 166)
+('Northumbrian British English', 153)
+('United States English,southern United States,New Orleans dialect', 144)
+('England English,South London', 140)
+('Dutch English', 127)
+('New Zealand English,England English', 117)
+('Dutch', 108)
+('Austrian', 105)
+('United States English,Southern Californian', 104)
+('England English,Canadian English', 98)
+('European,German,Foreign,Non-native', 77)
+('United States English,England English', 77)
+('German,south-west German,South German accent,Alemannic German Accent', 74)
+('United States English,Midwestern,Low,Demure', 72)
+('Thai', 67)
+('United States English,Pacific Northwest ', 63)
+('England English,southern english,sussex', 63)
+('England English,Northern English', 61)
+('Spanish,Foreign,Non-native', 60)
+('England English,India and South Asia (India, Pakistan, Sri Lanka),Northern English', 60)
+('Bangladeshi English', 53)
+('United States English,Southwestern United States English', 50)
+('Midwestern US English (United States),United States English', 47)
+('England English,United States English', 46)
+('United States English,Some time spent in Scotland, mostly affecting inflection, I think', 42)
+('Malaysian English,Javanese,Indonesian English', 40)
+('Eastern European English', 35)
+('United States English,Midwestern States (Michigan)', 35)
+('Ukrainian', 33)
+('United States English,Californian Accent', 32)
+('Midatlantic,England English', 29)
+('Russian', 28)
+('United States English,Midwestern United States English', 27)
+('United States English,South Texas,Slightly effeminate,Conversational', 26)
+('East African Khoja', 24)
+('England English,New Zealand English,Welsh English,Australian English,United States English,Mixed-Accent English', 24)
+('Upper Midwestern,United States English', 24)
+('minor french accent', 23)
+('polish', 21)
+('Mid-atlantic,England English,United States English', 20)
+('German English', 20)
+('Italian', 19)
+('Slavic', 19)
+('India and South Asia (India, Pakistan, Sri Lanka),try to maintain originality ', 18)
+('Malaysian English,England English', 17)
+('India and South Asia (India, Pakistan, Sri Lanka),bangladesh', 16)
+('2nd Language ', 16)
+('West Indies and Bermuda (Bahamas, Bermuda, Jamaica, Trinidad),England English,Scottish English,United States English', 15)
+('German', 15)
+('United States English,England English,India and South Asia (India, Pakistan, Sri Lanka)', 14)
+('Nigerian English', 14)
+('England English,British', 14)
+('Canadian English,Irish English', 12)
+('England English,south German / Swiss accent', 12)
+('United States English,CARIBBEAN AND BRITISH MIXED WITH SOME NEW YORK ACCENTS', 12)
+('serbian,United States English', 12)
+('Mid-Atlantic United States English,Philadelphia, Pennsylvania, United States English,United States English,Philadelphia Style United States English', 12)
+('United States English,Cool', 11)
+('United States English,midwest', 11)
+('United States English,Israeli accent', 10)
+('Australian English,England English', 10)
+('United States English,Mid-west United States English', 10)
+('fluent,ESL,European', 10)
+('With heavy Cantonese accent', 9)
+('Northern Irish,Norwegian,yorkshire', 9)
+('england,london,academic', 9)
+('A variety of Texan English with some German influence that has undergone the cot-caught merger', 9)
+('United States English,Hmong-American', 9)
+('Filipino,United States English', 9)
+('Malaysian English,Singaporean English', 9)
+('Singaporean English,England English', 9)
+('United States English,Chicano English,"Valley Girl" English', 8)
+('United States English,new england/east coast', 8)
+('United States English,Midwestern', 8)
+('French', 7)
+('Japanese English', 7)
+('India and South Asia (India, Pakistan, Sri Lanka),International Indian Accent', 7)
+('United States English,Canadian English', 7)
+('England English,Scottish English', 7)
+('Slavic,East European,polish', 7)
+('German Accent', 6)
+('India and South Asia (India, Pakistan, Sri Lanka),United States English', 6)
+('United States English,Australian English', 6)
+('United States English,Slight lisp', 6)
+('polish accent', 6)
+('Bangladeshi,Bangladesh English', 5)
+('Slavic,polish', 5)
+('United States English,Australian English,England English,New Zealand English,India and South Asia (India, Pakistan, Sri Lanka),international,Slovak', 5)
+('United States English,little bit classy little bit sassy and add some city.....thats me', 5)
+('Slavic,Russian', 5)
+('Norwegian', 4)
+('United States English,Kenyan English', 4)
+('Australian English,Sydney - middle eastern seaboard Australian', 4)
+('India and South Asia (India, Pakistan, Sri Lanka),Indian with a tinge of an RP accent', 4)
+("European,eastern europe,pronounced r's,heavy consonants ", 4)
+('Southern Texas Accent,United States English', 4)
+('Hong Kong English,Scottish English', 3)
+('India and South Asia (India, Pakistan, Sri Lanka),Canadian English', 3)
+('England English,yorkshire', 3)
+('India and South Asia (India, Pakistan, Sri Lanka),England English', 3)
+('United States English,Okie', 3)
+('West Indies and Bermuda (Bahamas, Bermuda, Jamaica, Trinidad),Patois', 3)
+('Latin English', 3)
+('United States English,Southern Appalachian English,Southern United States English', 3)
+('Canadian English,United States English,England English', 3)
+("England English,Porto des dels 3 anys aprenent anglès a l'escola i actualment m'estic preparant per a l'examen del B2.", 3)
+('United States English,India and South Asia (India, Pakistan, Sri Lanka)', 3)
+('United States English,England English,Hong Kong English', 2)
+('New Zealand English,United States English', 2)
+('Colombian Accent', 2)
+('West Indian', 2)
+('India and South Asia (India, Pakistan, Sri Lanka),Basic', 2)
+('United States English,United States English. people say I sound like a surffer dude.', 2)
+('United States English,Variable', 2)
+('United States English combined with European English', 2)
+('Russian,East Ukrainian ', 2)
+('East London ', 2)
+('Scottish English,Scottish', 2)
+('England English,Hong Kong English', 2)
+('United States English,Canadian English,slight Brooklyn Accent', 2)
+('Afrikaans English', 2)
+('East Indian', 2)
+('England English,Lancashire, England ', 2)
+("Israeli's accent ", 2)
+('England English,London English', 2)
+('United States English,Chicago ', 2)
+('Swedish accent', 2)
+('slighty Southern affected by decades in the Midwest, 4 years in Spain and Germany, speak some German, Spanish, Polish. Have lived in nine states.', 1)
+('Swedish English', 1)
+('United States English,Spoke Chinese when little,90% Pennsylvanian accent, 10% Chinese accent', 1)
+('Finnish', 1)
+('United States English,i have some pronunciation issues because of oral surgery and a hidden southern accent', 1)
+('England English,Southern England', 1)
+('United States English,wolof', 1)
+("A'lo", 1)
+('Australian English,England English,Japanese', 1)
+('United States English,midwestern US', 1)
+('United States English,Silicon Valley Native', 1)
+('United States English,American Midwest', 1)
+('Spanish bilingual', 1)
+('Eastern European,Romanian', 1)
+('Not bad', 1)
+('United States English,Canadian English,Indo-Canadian English', 1)
+('United States English,Northern,Urban', 1)
+('Australian English,Educated Australian Accent', 1)
+('United States English,southern United States', 1)
+('English north of England ', 1)
+('Catalan', 1)
+('northern cali', 1)
+('Mild Northern England English', 1)
+('Выраженный украинский акцент', 1)
+('European English,French,Romanian', 1)
+('United States English,pin/pen merger', 1)
+('Latin American accent', 1)
+
+0.5298320597232888 percent accent annotated 
+
+Number of unique speakers for each unique accent: 
+
+nan #speakers: 0
+England English,United States English #speakers: 8
+Hong Kong English #speakers: 129
+United States English,American Midwest #speakers: 1
+England English #speakers: 2249
+United States English #speakers: 7325
+United States English,wolof #speakers: 1
+Australian English #speakers: 647
+Southern African (South Africa, Zimbabwe, Namibia) #speakers: 253
+India and South Asia (India, Pakistan, Sri Lanka) #speakers: 1953
+United States English,midwestern US #speakers: 1
+Australian English,England English,Japanese #speakers: 1
+Canadian English #speakers: 876
+Scottish English #speakers: 161
+Filipino #speakers: 123
+A'lo #speakers: 1
+Swedish English #speakers: 1
+England English,Southern England #speakers: 1
+United States English,i have some pronunciation issues because of oral surgery and a hidden southern accent #speakers: 1
+Finnish #speakers: 1
+United States English,Spoke Chinese when little,90% Pennsylvanian accent, 10% Chinese accent #speakers: 1
+Singaporean English #speakers: 73
+West Indies and Bermuda (Bahamas, Bermuda, Jamaica, Trinidad) #speakers: 46
+Spanish bilingual #speakers: 1
+Irish English #speakers: 185
+United States English,England English #speakers: 11
+United States English,Silicon Valley Native #speakers: 1
+Not bad #speakers: 1
+United States English,Canadian English,Indo-Canadian English #speakers: 1
+United States English,Northern,Urban #speakers: 1
+Malaysian English #speakers: 94
+New Zealand English #speakers: 150
+Australian English,Educated Australian Accent #speakers: 1
+Eastern European,Romanian #speakers: 1
+United States English,India and South Asia (India, Pakistan, Sri Lanka) #speakers: 2
+English north of England  #speakers: 1
+India and South Asia (India, Pakistan, Sri Lanka),United States English #speakers: 3
+northern cali #speakers: 1
+Mild Northern England English #speakers: 1
+Выраженный украинский акцент #speakers: 1
+slighty Southern affected by decades in the Midwest, 4 years in Spain and Germany, speak some German, Spanish, Polish. Have lived in nine states. #speakers: 1
+Catalan #speakers: 1
+United States English,southern United States #speakers: 1
+European English,French,Romanian #speakers: 1
+United States English,pin/pen merger #speakers: 1
+Latin American accent #speakers: 1
+England English,Hong Kong English #speakers: 1
+India and South Asia (India, Pakistan, Sri Lanka),Basic #speakers: 1
+East London  #speakers: 1
+Russian,East Ukrainian  #speakers: 1
+United States English,Variable #speakers: 1
+United States English,United States English. people say I sound like a surffer dude. #speakers: 1
+Colombian Accent #speakers: 1
+West Indian #speakers: 1
+New Zealand English,United States English #speakers: 1
+United States English,England English,Hong Kong English #speakers: 1
+Welsh English #speakers: 64
+Northern Irish #speakers: 2
+Scottish English,Scottish #speakers: 1
+United States English combined with European English #speakers: 1
+Swedish accent #speakers: 1
+Japanese English #speakers: 2
+United States English,Canadian English,slight Brooklyn Accent #speakers: 1
+Afrikaans English #speakers: 1
+Slavic #speakers: 3
+East Indian #speakers: 1
+England English,Lancashire, England  #speakers: 1
+Israeli's accent  #speakers: 1
+England English,London English #speakers: 1
+German English #speakers: 3
+United States English,Chicago  #speakers: 1
+India and South Asia (India, Pakistan, Sri Lanka),Canadian English #speakers: 1
+England English,yorkshire #speakers: 1
+India and South Asia (India, Pakistan, Sri Lanka),England English #speakers: 1
+German #speakers: 3
+United States English,Okie #speakers: 1
+United States English,England English,India and South Asia (India, Pakistan, Sri Lanka) #speakers: 2
+West Indies and Bermuda (Bahamas, Bermuda, Jamaica, Trinidad),Patois #speakers: 1
+Latin English #speakers: 1
+Hong Kong English,Scottish English #speakers: 1
+South Atlantic (Falkland Islands, Saint Helena) #speakers: 5
+United States English,Southern Appalachian English,Southern United States English #speakers: 1
+Canadian English,United States English,England English #speakers: 1
+United States English,Midwestern #speakers: 2
+England English,Porto des dels 3 anys aprenent anglès a l'escola i actualment m'estic preparant per a l'examen del B2. #speakers: 1
+Southern Texas Accent,United States English #speakers: 1
+Russian #speakers: 3
+European,eastern europe,pronounced r's,heavy consonants  #speakers: 1
+Norwegian #speakers: 1
+India and South Asia (India, Pakistan, Sri Lanka),Indian with a tinge of an RP accent #speakers: 1
+Australian English,Sydney - middle eastern seaboard Australian #speakers: 1
+United States English,Kenyan English #speakers: 1
+Bangladeshi,Bangladesh English #speakers: 1
+Slavic,Russian #speakers: 1
+Eastern European English #speakers: 2
+United States English,little bit classy little bit sassy and add some city.....thats me #speakers: 1
+United States English,Australian English,England English,New Zealand English,India and South Asia (India, Pakistan, Sri Lanka),international,Slovak #speakers: 1
+Slavic,polish #speakers: 1
+United States English,Midwestern United States English #speakers: 2
+polish accent #speakers: 1
+United States English,Slight lisp #speakers: 1
+United States English,Australian English #speakers: 1
+German Accent #speakers: 1
+Slavic,East European,polish #speakers: 1
+French #speakers: 1
+England English,Scottish English #speakers: 1
+United States English,Canadian English #speakers: 1
+India and South Asia (India, Pakistan, Sri Lanka),International Indian Accent #speakers: 1
+United States English,new england/east coast #speakers: 1
+United States English,Chicano English,"Valley Girl" English #speakers: 1
+england,london,academic #speakers: 1
+United States English,Hmong-American #speakers: 1
+Malaysian English,Singaporean English #speakers: 1
+Singaporean English,England English #speakers: 1
+Northern Irish,Norwegian,yorkshire #speakers: 1
+A variety of Texan English with some German influence that has undergone the cot-caught merger #speakers: 1
+With heavy Cantonese accent #speakers: 1
+polish #speakers: 2
+Filipino,United States English #speakers: 1
+fluent,ESL,European #speakers: 1
+United States English,Mid-west United States English #speakers: 1
+Australian English,England English #speakers: 1
+United States English,Israeli accent #speakers: 1
+Thai #speakers: 2
+United States English,Cool #speakers: 1
+United States English,midwest #speakers: 1
+England English,south German / Swiss accent #speakers: 1
+Canadian English,Irish English #speakers: 1
+United States English,CARIBBEAN AND BRITISH MIXED WITH SOME NEW YORK ACCENTS #speakers: 1
+serbian,United States English #speakers: 1
+Mid-Atlantic United States English,Philadelphia, Pennsylvania, United States English,United States English,Philadelphia Style United States English #speakers: 1
+England English,British #speakers: 1
+Nigerian English #speakers: 1
+West Indies and Bermuda (Bahamas, Bermuda, Jamaica, Trinidad),England English,Scottish English,United States English #speakers: 1
+India and South Asia (India, Pakistan, Sri Lanka),bangladesh #speakers: 1
+2nd Language  #speakers: 1
+Malaysian English,England English #speakers: 1
+India and South Asia (India, Pakistan, Sri Lanka),try to maintain originality  #speakers: 1
+Italian #speakers: 1
+Mid-atlantic,England English,United States English #speakers: 1
+minor french accent #speakers: 1
+Dutch English #speakers: 2
+East African Khoja #speakers: 1
+Upper Midwestern,United States English #speakers: 1
+England English,New Zealand English,Welsh English,Australian English,United States English,Mixed-Accent English #speakers: 1
+United States English,South Texas,Slightly effeminate,Conversational #speakers: 1
+Midatlantic,England English #speakers: 1
+United States English,Californian Accent #speakers: 1
+Ukrainian #speakers: 1
+United States English,Midwestern States (Michigan) #speakers: 1
+Malaysian English,Javanese,Indonesian English #speakers: 1
+United States English,Some time spent in Scotland, mostly affecting inflection, I think #speakers: 1
+Austrian #speakers: 2
+Midwestern US English (United States),United States English #speakers: 1
+United States English,Southwestern United States English #speakers: 1
+Bangladeshi English #speakers: 1
+England English,India and South Asia (India, Pakistan, Sri Lanka),Northern English #speakers: 1
+Spanish,Foreign,Non-native #speakers: 1
+England English,Northern English #speakers: 1
+United States English,Pacific Northwest  #speakers: 1
+England English,southern english,sussex #speakers: 1
+United States English,Midwestern,Low,Demure #speakers: 1
+German,south-west German,South German accent,Alemannic German Accent #speakers: 1
+European,German,Foreign,Non-native #speakers: 1
+England English,Canadian English #speakers: 1
+United States English,Southern Californian #speakers: 1
+Dutch #speakers: 1
+New Zealand English,England English #speakers: 1
+England English,South London #speakers: 1
+United States English,southern United States,New Orleans dialect #speakers: 1
+Northumbrian British English #speakers: 1
+England English,Northern England #speakers: 1
+United States English,Midwestern,Minnesotan #speakers: 1
+southern United States,United States English #speakers: 1
+England English,New Zealand English #speakers: 1
+German English,Non native speaker #speakers: 1

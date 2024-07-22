@@ -1,0 +1,42 @@
+2024-06-05 12:37:20,383 - progress - INFO - Creating dataloader for /tmp/tmpf3y_wlpv/manifest.json
+2024-06-05 12:37:20,384 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmpf3y_wlpv/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000, 'asr_repo': 'whisper'}
+2024-06-05 12:37:20,385 - progress - INFO - 	Batch size: 12
+2024-06-05 12:43:13,291 - progress - INFO - Creating dataloader for /tmp/tmp8ikjtwcm/manifest.json
+2024-06-05 12:43:13,308 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmp8ikjtwcm/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000, 'asr_repo': 'whisper'}
+2024-06-05 12:43:13,309 - progress - INFO - 	Batch size: 12
+2024-06-05 12:45:39,599 - progress - INFO - Creating dataloader for /tmp/tmpm8inoh5x/manifest.json
+2024-06-05 12:45:39,600 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmpm8inoh5x/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000, 'asr_repo': 'whisper'}
+2024-06-05 12:45:39,601 - progress - INFO - 	Batch size: 12
+2024-06-05 12:59:49,012 - progress - INFO - Creating dataloader for /tmp/tmprfdd6bsc/manifest.json
+2024-06-05 12:59:49,013 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmprfdd6bsc/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000, 'asr_repo': 'whisper'}
+2024-06-05 12:59:49,014 - progress - INFO - 	Batch size: 12
+2024-06-05 13:07:04,026 - progress - INFO - Creating dataloader for /tmp/tmpag6jrad8/manifest.json
+2024-06-05 13:07:04,040 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmpag6jrad8/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000, 'asr_repo': 'whisper'}
+2024-06-05 13:07:04,040 - progress - INFO - 	Batch size: 12
+2024-06-05 13:09:57,647 - progress - INFO - Creating dataloader for /tmp/tmp1c_pu79y/manifest.json
+2024-06-05 13:09:57,648 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmp1c_pu79y/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000, 'asr_repo': 'whisper'}
+2024-06-05 13:09:57,648 - progress - INFO - 	Batch size: 12
+2024-06-05 13:16:39,209 - progress - INFO - Creating dataloader for /tmp/tmpr5n20sjd/manifest.json
+2024-06-05 13:16:39,223 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmpr5n20sjd/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000, 'asr_repo': 'whisper'}
+2024-06-05 13:16:39,224 - progress - INFO - 	Batch size: 12
+2024-06-05 13:35:32,062 - progress - INFO - Creating dataloader for /tmp/tmpjsp255mr/manifest.json
+2024-06-05 13:35:32,063 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmpjsp255mr/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000, 'asr_repo': 'whisper'}
+2024-06-05 13:35:32,063 - progress - INFO - 	Batch size: 12
+2024-06-05 13:39:09,212 - progress - INFO - Creating dataloader for /tmp/tmp61n6i6mi/manifest.json
+2024-06-05 13:39:09,213 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmp61n6i6mi/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000, 'asr_repo': 'whisper'}
+2024-06-05 13:39:09,214 - progress - INFO - 	Batch size: 12
+2024-06-05 13:44:56,251 - progress - INFO - Creating dataloader for /tmp/tmp51tzm0c8/manifest.json
+2024-06-05 13:44:56,258 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmp51tzm0c8/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000, 'asr_repo': 'whisper'}
+2024-06-05 13:44:56,259 - progress - INFO - 	Batch size: 12
+2024-06-05 13:49:10,104 - progress - INFO - Creating dataloader for /tmp/tmpuh98ketd/manifest.json
+2024-06-05 13:49:10,116 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmpuh98ketd/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000, 'asr_repo': 'whisper'}
+2024-06-05 13:49:10,116 - progress - INFO - 	Batch size: 12
+2024-06-05 14:43:22,051 - progress - INFO - Creating dataloader for /tmp/tmpxtmer99k/manifest.json
+2024-06-05 14:43:22,061 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmpxtmer99k/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000, 'asr_repo': 'whisper'}
+2024-06-05 14:43:22,061 - progress - INFO - 	Batch size: 12
+2024-06-05 14:51:50,019 - progress - INFO - Creating dataloader for /tmp/tmpzflogm7c/manifest.json
+2024-06-05 14:51:50,035 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmpzflogm7c/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000, 'asr_repo': 'whisper'}
+2024-06-05 14:51:50,036 - progress - INFO - 	Batch size: 12
+2024-06-05 15:00:03,881 - progress - INFO - Creating dataloader for /tmp/tmpl3r83a1g/manifest.json
+2024-06-05 15:00:03,901 - progress - INFO - 	Dataloader config: {'manifest_filepath': '/tmp/tmpl3r83a1g/manifest.json', 'batch_size': 12, 'num_workers': 10, 'sample_rate': 16000, 'asr_repo': 'whisper'}
+2024-06-05 15:00:03,902 - progress - INFO - 	Batch size: 12
